@@ -15,7 +15,6 @@ _(This Page will get updated with strategies and loadout suggestions when all th
 Overload and Barrier champs. Fallen and Hive enemies. High add density and multiple waves. Boss room without much cover, boss cannot be burst. All types of shields. Arc Resistance, Concussive Dampener, Sniper resist.
 
 **Class Composition:** Tether, Banner Shield, Well of Radiance.
-
 **Team Weapon Loadout:** AB snipers, Overload bows, RIskrunner, Anarchy, Xenophage, Rocket Launchers.
 
 
@@ -23,7 +22,6 @@ Overload and Barrier champs. Fallen and Hive enemies. High add density and multi
 Overload and Barrier champs. Fallen enemies. Boss has 4 phases. Boss room has sniper shanks and barrier servitors. Similar to Exodus Crash, should require defensive supers (banner shield and wells). Arc and Void shields. Arc or Solar resist, Sniper resist. Riskrunner is very good for adds. Overload sword for champs and invis adds.
 
 **Class Composition:** Banner Shield(x2), Well of Radiance (x2), Tether.
-
 **Team Weapon Loadout:** AB snipers, Overload Riskrunner / Overload bows, Anarchy, Sword, Rocket Launchers.
 
 
