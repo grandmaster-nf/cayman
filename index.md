@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the Grandmaster Ordeal Guide for Season of the Chosen
+# Welcome to the Grandmaster Ordeal Guide
 
 >![seal](https://grandmaster-nf.github.io/assets/images/seal.png)
 Seal of the Conquerors
