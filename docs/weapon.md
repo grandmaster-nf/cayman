@@ -105,7 +105,8 @@ Explosive payload is recommended.
 ## Rocket Launchers
 
 - Arc Rocket Launcher for Champ burst damage (Dreaming City and Shattered Throne)
-- Tracking / Field prep / Auto-loading holster + Vorpal
+Tracking / Field prep / Auto-loading holster + Vorpal
+![sleepless](https://grandmaster-nf.github.io/assets/images/sleepless.png)
 - Arc Rocket Launcher for add-clear and tracking (Europa - Milestones and Variks bounty)
 (Surplus / Ambitious assassin + Chain Reaction)
 ![subzerosalvo](https://grandmaster-nf.github.io/assets/images/subzerosalvo.png)
