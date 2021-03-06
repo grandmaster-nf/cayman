@@ -4,7 +4,7 @@ title: Grandmaster Nightfall: The Ordeal Strikes
 description: Season of the Chosen 
 ---
 
-## Welcome to SEASON OF CHOSEN ORDEALS
+## Season of the Chosen Grandmaster Ordeals
 
 (This Page will get updated with strategies and loadout suggestions when all the seasonal GM’s are out)
 
