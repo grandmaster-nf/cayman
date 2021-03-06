@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Season of the Chosen Strikes
+description: What to bring
 ---
 
 ## Welcome to another page
