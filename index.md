@@ -2,122 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Welcome to a GrandMaster Ordeal Guide for Season of the Chosen:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+What is a Grandmaster ordeal? It’s the same as the Master version but with curated modifiers and contest mode that makes it extremely difficult content - Limited revives, Extinguish (team wipe takes you to orbit), 25 PL penalty and a 45 minute timer that removes any remaining revives. These are additional to the Master modifiers like Match Game, Equipment lock, and so on.
 
-# Header 1
+Rule #1 is that you forget everything you know about the strikes and ordeals. GM is another thing altogether and it will force you to play the strike like you have never played it before.
+Once you have conquered the GM, you will have learned to appreciate the challenge and how your teamwork and loadout can overcome it.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Unlike mindless strikes, GM will require you to work as a team and communicate every encounter. So get into the mindset of calling out - when adds spawn, when you’re about to stun a champion, when you’re using a super, etc. It’s all about team play, there is no room for solo shenanigans. 
 
-## Header 2
+The best way to practice for GMs is by running the Master versions underleveled, so you can get used to a harder difficulty, and learn the ordeal. The master versions are identical to GMs in terms of enemy spawns, number of champions, and most modifiers. Running the master a bunch of times is highly recommended so you can learn where enemies come from, which champions to kill first, where to find cover, how to get better positioning that lets you safely deal with minibosses, and how to damage the boss in order to control the add spawns.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Also, get used to running an unconventional and/or non-meta loadout for the GMs. Double primaries and exotic heavy is a very common loadout. Learn how the champion mods and artifact mods work, and how best to use them in your builds. If a teammate is running Aeon gloves or special finisher, let them get the finisher kills. You may be running a defensive super but sitting on it helps no one, use it as often as you can.
 
-### Header 3
+You also cannot underestimate any red-bar enemies. They are extremely dangerous and can team wipe when you least expect it. It’s usually good practice to clear out all the minor adds before dealing with a champion, but that differs for each ordeal. 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+There are plenty of tips and tricks for GMs and champions but they have been covered in a ton of videos and posts, so look them up if you want; or just ask in the discord server. With adept guns added to GMs, more and more players will be looking to take up the challenge of becoming Conquerors - hoping to see a lot of you out there this season, and in the future!
