@@ -15,7 +15,7 @@ The super can be used for clearing/suppressing adds and also for BIG boss damage
 
 Invis hunter running a sword with the overload mod from the artifact and passive guard will be viable to tackle the annoying overload champions this season.
 
-Exotic armor - Fr0st-EE5, Assassin's Cowl, Omnioculus, Orpheus Rig, Aeon Swift (with Sect of Insight mod). Pathfinders should spec for mobility (80+) and discipline.
+**Exotic armor** - Fr0st-EE5, Assassin's Cowl, Omnioculus, Orpheus Rig, Aeon Swift (with Sect of Insight mod). Pathfinders should spec for mobility (80+) and discipline.
 
 
 ### Revenant 
@@ -23,7 +23,7 @@ is the next best option if you want to embrace the darkness. Range melee that ca
 
 Duskfield is the grenade of choice and synergizes with the Durance fragment that makes slow last longer. Torment fragment lets you get nades back faster. Resonance Siphon and Glacial Inheritance mods from the seasonal Artifact will be the best choice if you plan to run Revenant. Freezing will break barrier champs and negate their ability to regen health.
 
-Exotic armor - Mask of Bakris, Assassin's Cowl, Fr0st-EE5, Aeon Swift (with Sect of Insight mod). Revenants should spec for mobility and discipline.
+**Exotic armor** - Mask of Bakris, Assassin's Cowl, Fr0st-EE5, Aeon Swift (with Sect of Insight mod). Revenants should spec for mobility and discipline.
 
 Unfortunately, the arc and solar hunter subclasses offer no team synergy or viable benefit for endgame content like GM ordeals. A Nighthawk wearing Sharpshooter hunter could work in some cases but the subclass is limited to a one shot super. 
 
@@ -37,13 +37,13 @@ The subclass is not limited to the super - Suppressor grenades are very good for
 
 Melee and splash damage can still kill teammates through the shield, so keep that in mind. DO NOT block with the super inside a well of radiance, it will negate any super energy gain from Ursa gloves.
 
-Exotic armor - Ursa Furiosa. Commanders should spec for intellect (80+).
+**Exotic armor** - Ursa Furiosa. Commanders should spec for intellect (80+).
 
 
 ### Sentinel - Code of the Protector 
 Similar to the Commander subclass by giving you and your team the weapons of light buff and protection while you’re inside the bubble super. However you’re not invulnerable inside the bubble, and there is no exotic to get super energy back. A bubble titan running Aeon Gloves for ammo generation and a sword with the artifact mod to stun overload champs could be viable for certain GMs this season.
 
-Exotic armor - Helm of St.14, Aeon Safe (with Sect of Insight mod), Stronghold (if running sword). Protectors should spec for intellect.
+**Exotic armor** - Helm of St.14, Aeon Safe (with Sect of Insight mod), Stronghold (if running sword). Protectors should spec for intellect.
 
 
 ### Striker - Code of the Missile 
@@ -51,7 +51,7 @@ could be very good for some GMs this season when you need a burst super. Paired 
 
 Arc grenades with the Surge Detonator mod from seasonal artifact will pair well for stunning overload champs. Volatile Conduction mod that boosts super damage when low on health could also work, although situational and a high risk maneuver. 
 
-Exotic armor - Cuirass of the Falling Star (only available from Legendary lost sectors). Spec for intellect and discipline.
+**Exotic armor** - Cuirass of the Falling Star (only available from Legendary lost sectors). Spec for intellect and discipline.
 
 
 Solar titans have no place in GMs even though certain add-clear builds can work; it’s not worth it when you have really good options like Code of the Commander. Behemoth titan continues to remain a laughable subclass for endgame pve.
@@ -64,7 +64,7 @@ is the safest choice for warlock players and has good synergy with buffing teamm
 
 The grenades can be charged to become healing orbs and rifts regen very quickly via the Benevolent Dawn perk. The charged melee also applies a damage debuff to targets for 5 seconds. It’s also the easiest subclass to spec for and recommended to players new to GMs. However, aggressive teams can clear rooms very quickly with a well and heavy weapons.
 
-Exotic armor - Phoenix Protocol, Lunafaction boots, Aeon Soul (with Sect of Insight mod). Spec for high intellect, recovery (for rifts) and discipline. 
+**Exotic armor** - Phoenix Protocol, Lunafaction boots, Aeon Soul (with Sect of Insight mod). Spec for high intellect, recovery (for rifts) and discipline. 
 
 
 ### Stormcaller - Attunement of Control 
@@ -72,13 +72,13 @@ When you need to kill bosses fast. The super is fantastic for long range sustain
 
 Surge Detonator artifact mod will allow overload champs to be stunned with grenades - pulse and storm nades are ideal. Volatile Conduction mod that boosts super damage when low on health could also work, although situational and a high risk maneuver. 
 
-Exotic armor - Geomag Stabilizers, spec for high intellect.
+**Exotic armor** - Geomag Stabilizers, spec for high intellect.
 
 
 ### Shadebinder
 Good add clear super that also lets you freeze barrier champs and negate their regen. Strong territory control with duskfield grenades and stasis turrets. Fragments to run - Hedrons for more bonus damage and Torment to regen grenades. This is however a situational subclass and will only be effective for GMs that require add clear, a boss with long damage phase and other teammates running well and/or banner shields.
 
-Exotic armor - Verity’s Brow, Aeon Soul (with Sect of Insight mod). Shadebinders should spec for discipline and intellect.
+**Exotic armor** - Verity’s Brow, Aeon Soul (with Sect of Insight mod). Shadebinders should spec for discipline and intellect.
 
 
 ### Voidwalkers - Attunement of Chaos 
