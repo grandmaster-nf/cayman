@@ -4,7 +4,7 @@ title: GM Guide: Armor
 description: Stats, Mods, Builds
 ---
 
-# Choose Your Armor
+# GM Guide: Armor
 ## Stats
 
 Grandmaster Ordeals are the PVE content where your Masterworked armor can be fully utilised to its potential. Ten energy lets you slot in more and better mods, while the stat boost helps with ability cooldowns. High-stat (60+) armor with spikes in at least 2 stats can be obtained from multiple sources now - Pit dungeon boss, Iron Banner, Deep Stone Crypt raid, Master empire hunts, Prime engrams, etc.

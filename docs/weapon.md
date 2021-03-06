@@ -89,16 +89,18 @@ Precision frame RL’s have intrinsic tracking, making them better than other ar
 
 
 
-# FARM LEGENDARY WEAPON ROLLS
+# FARMABLE LEGENDARY WEAPON ROLLS
 
 ## Anti-Barrier Scout Rifles
 
 - Kinetic Scouts - Curated Transfiguration (Last Wish raid), Night Watch (World drop)
 Explosive payload is recommended.
 - Arc Scout (World drop, Engrams) - only scout that can roll Disruption break and AP rounds
+![eternalblazon](https://grandmaster-nf.github.io/assets/images/eternalblazon.png)
 - Void Scout (Dreaming City, Shattered Throne dungeon)
+![vouchsafe](https://grandmaster-nf.github.io/assets/images/vouchsafe.png)
 - Solar Scout (Deep Stone Crypt Raid)
-
+![trustee](https://grandmaster-nf.github.io/assets/images/trustee.png)
 
 
 ## Kinetic Hand Cannons (for Unstoppable champs)  
@@ -106,13 +108,16 @@ Explosive payload is recommended.
 - True Prophecy - Gunsmith rank up drop (explosive payload)
 - Seventh Seraph Officer Revolver - World drop (timed payload or vorpal)
 - Crimil’s Dagger - Iron Banner drop (explosive payload)
+![trueprophecy](https://grandmaster-nf.github.io/assets/images/trueprophecy.png)
 - Arc Hand Cannon - Nation of Beasts (any roll with explosive payload) - Last Wish Raid
 - Waking Vigil (Rapid hit + Vorpal) - Dreaming City and Shattered Throne
 
 ## High-Impact snipers
 
 - (Deep Stone Crypt Raid, Reconstruction or Lead from Gold with Vorpal)
+![succession](https://grandmaster-nf.github.io/assets/images/succession.png)
 - (Crucible post-match drop, Triple-tap or Clown Cartridge with Vorpal)
+![frozenorbit](https://grandmaster-nf.github.io/assets/images/frozenorbit.png)
 
 ## Rocket Launchers
 
@@ -120,18 +125,23 @@ Explosive payload is recommended.
 - Tracking / Field prep / Auto-loading holster + Vorpal
 - Arc Rocket Launcher for add-clear and tracking (Europa - Milestones and Variks bounty)
 (Surplus / Ambitious assassin + Chain Reaction)
+![subzerosalvo](https://grandmaster-nf.github.io/assets/images/subzerosalvo.png)
 - Solar Rocket Launcher for high burst damage (Umbral engrams, Battlegrounds)
 (Field prep / Auto-loading holster + Lasting Impression)
+![codeduello](https://grandmaster-nf.github.io/assets/images/codeduello.png)
 - Void Rocket Launcher with tracking and high damage (Strike/Ordeal completion drop)
 (Field-prep or Auto loading holster + Clown cartridge or Lasting impression)
+![royalentry](https://grandmaster-nf.github.io/assets/images/royalentry.png)
 - Trials RL is also void and can drop with similar perks, but no in-built tracking.
 
 
 ## Overload Bows (Explosive head is a must for legendary bows)
 - Kinetic Bow for Overload champs (Europa milestones and Lost Sectors)
+![bitingwinds](https://grandmaster-nf.github.io/assets/images/bitingwinds.png)
 - Solar Bow for Overload champs and solar shields (Last Wish Raid)
+![tyrannyofheaven](https://grandmaster-nf.github.io/assets/images/tyrannyofheaven.png)
 - Arc Bow for Overload champs and Arc shields (World drop, Engrams)
-
+![arsenicbite](https://grandmaster-nf.github.io/assets/images/arsenicbite.png)
 
 
 ## Pulse rifles (for unstoppable champions)
@@ -140,6 +150,7 @@ Explosive payload is recommended.
 - Jian 7 (World/Gunsmith drop) - Arc pulse, can roll Disruption break and AP rounds
 - Third Axiom (Strike/Ordeal post match drop) - Arc pulse, AP rounds.
 (Genesis + Disruption break OR Surplus + Vorpal)
+![thirdaxiom](https://grandmaster-nf.github.io/assets/images/thirdaxiom.png)
 
 
 [back](./)
