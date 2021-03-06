@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Choose your class
+description: Hunter, Titan, Warlock, what Element?
 ---
 
 ## Welcome to another page
