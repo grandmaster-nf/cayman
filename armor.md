@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Armor
+title: GM Guide: Armor
 description: Stats, Mods, Builds
 ---
 
