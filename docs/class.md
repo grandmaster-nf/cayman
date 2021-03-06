@@ -6,7 +6,10 @@ description: Hunter, Titan, Warlock
 
 # GM Guide: Class & Element
 
+{:refdef: style="text-align: center;"}
 ## HUNTER:
+![hunter](https://grandmaster-nf.github.io/assets/images/hunter.jpg)
+{: refdef}
 
 ### Nightstalker - Way of the Pathfinder
 The  top tier choice of hunters for most GM's. Smoke bombs make you invisible so you can reposition, flank, get safe revives and skip some parts. You can not only invis yourself but your whole fireteam! Use Gambler's Dodge near enemies to replenish smoke bomb. Using a smoke bomb also gives grenade energy and the heart of the pack buff (bonus stats). Vortex grenades do a lot of damage, have a long duration and give back melee energy for smoke bomb.
@@ -29,7 +32,10 @@ Duskfield is the grenade of choice and synergizes with the Durance fragment that
 Unfortunately, the arc and solar hunter subclasses offer no team synergy or viable benefit for endgame content like GM ordeals. A Nighthawk wearing Sharpshooter hunter could work in some cases but the subclass is limited to a one shot super.
 
 
+{:refdef: style="text-align: center;"}
 ## TITAN:
+![titan](https://grandmaster-nf.github.io/assets/images/titan.jpg)
+{: refdef}
 
 ### Sentinel - Code of the Commander
 ideal and usually the only choice for titans doing GMs. The banner shield super blocks every type of damage for a long duration, while also making heaps of orbs and buffing weapon damage (35%) for your team. Paired with the Ursa Furiosa exotic gloves, you can regain upto 80% super energy while blocking with the banner shield! It’s also a mobile super that allows movement and lets you reposition.
@@ -56,8 +62,10 @@ Arc grenades with the Surge Detonator mod from seasonal artifact pairs well for 
 
 Solar titans have no place in GMs even though certain add-clear builds can work; it’s not worth it when you have really good options like Code of the Commander. Behemoth titan continues to remain a laughable subclass for endgame pve.
 
-
+{:refdef: style="text-align: center;"}
 ## WARLOCK:
+![warlock](https://grandmaster-nf.github.io/assets/images/warlock.jpg)
+{: refdef}
 
 ### Dawnblade - Attunement of Grace
 The safest choice for warlock players and has good synergy for healing and buffing teammates. The super gives a 25% damage buff to weapons and constant overshield, but it does restrict movement to the radius of the well. Shooting from inside the well of radiance lets you kill adds shielded by servitors or minibosses. Combined with the Phoenix Protocol exotic chest, you can gain back super energy when you and your team kill adds from inside the well of radiance.
