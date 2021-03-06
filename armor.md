@@ -5,7 +5,7 @@ description: Stats, Mods, Builds
 ---
 
 # Choose your Armor 
-## STATS
+## Stats
 
 Grandmaster Ordeals are the PVE content where your Masterworked armor can be fully utilised to its potential. Ten energy lets you slot in more and better mods, while the stat boost helps with ability cooldowns. High-stat (60+) armor with spikes in at least 2 stats can be obtained from multiple sources now - Pit dungeon boss, Iron Banner, Deep Stone Crypt raid, Master empire hunts, Prime engrams, etc.
 
@@ -32,7 +32,7 @@ The elemental affinity of armor determines some of the mods you can slot. Ideall
 3 Solar, 2 Void - Aggressive Warmind Cell loadout.
 
 
-## MODS AND BUILDS
+## Mods and Builds
 
 Mods are a game changer for endgame content and will differ for each ordeal and subclass.
 
