@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Choose your Class & Element
-description: Hunter, Titan, Warlock, what Element?
+title: GM Guide: Class & Element
+description: Hunter, Titan, Warlock
 ---
 
 # Choose your Class & Element
