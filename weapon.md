@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Weapons
+title: GM Guide: Weapons
 description: Choose your Arsenal
 ---
 
