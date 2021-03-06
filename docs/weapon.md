@@ -4,18 +4,18 @@ title: GM Guide: Weapons
 description: Choose your Arsenal
 ---
 
-# Weapons
+# Choose Your Weapons
 
 Weapon choice in GM Ordeals comes down to seasonal champion mods, recently boosted archetypes (Hello Rockets), high burst and good sustain damage.
 
 Primary - This weapon will vary every season due to the changing artifact mods. This season we have Anti-Barrier Scouts, Unstoppable Hand Cannon and Pulse, and Overload Bows.
 
-## Weapon perks 
+## Weapon perks
 For GM’s and endgame vary from your usual best in slot guns. Feeding Frenzy + Rampage may be your favorite perks for regular content, but they don’t work well in GMs simply because you’re not going to be killing adds rapidly to take advantage of reload and damage perks. Instead you want to run perks like vorpal, explosive payload, disruption break, etc that synergise with endgame and champion mods. Exotic primaries are less viable and often not worth using in GMs, but the DMT scout and the 3 exotic bows might change that this season.
 
 **Vorpal** - bonus 15% damage to bosses, champions, elites, and vehicles. Always active.
 
-**Explosive payload** - delivers bonus AoE damage even with body shots and has no range drop off. Best perk for unstoppable and overload weapons since it lets you stun champs faster, and can stun multiple champs if they are close to each other. Explosive rounds can also stagger enemies and you can damage them behind cover by shooting near them. 
+**Explosive payload** - delivers bonus AoE damage even with body shots and has no range drop off. Best perk for unstoppable and overload weapons since it lets you stun champs faster, and can stun multiple champs if they are close to each other. Explosive rounds can also stagger enemies and you can damage them behind cover by shooting near them.
 
 **Disruption break** - breaking an elemental shield gives a 50% damage buff to your kinetic weapon for a short duration This is an amazing perk to run on primary energy weapons, and also procs on barrier champ shields.
 
@@ -38,9 +38,9 @@ Bow perks: **shorter Draw time**, **Archer’s Tempo/Rapid Hit**, **Explosive he
 **Riskrunner** - very good for add clear against hive and fallen.
 
 ## Special
-With the introduction of champion mods to special weapons with Beyond Light, it’s no longer required to run double primary loadouts for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout. 
+With the introduction of champion mods to special weapons with Beyond Light, it’s no longer required to run double primary loadouts for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout.
 
-Sniper rifles having anti-barrier and getting bonus damage from the mod make them the ideal special weapon to use for GMs with barrier champs. 
+Sniper rifles having anti-barrier and getting bonus damage from the mod make them the ideal special weapon to use for GMs with barrier champs.
 
 Vorpal is the best perk to have on snipers. A high-impact Anti-barrier sniper with vorpal will break a champion’s barrier with one precision shot. Reload perks like triple tap and fourth times the charm are also very useful.
 
@@ -59,7 +59,7 @@ Exotics like Divinity, Eriana’s Vow and Izanagi are ideal for GMs and will pai
 Special ammo is abundant with special ammo finders, Aeon gloves and special ammo finisher mods.
 
 
-## Heavy 
+## Heavy
 A slot usually reserved for exotics that can deal high burst or sustain damage, depending on the ordeal. The buff to Rocket launchers however makes them viable and accessible for GMs, freeing up the exotic slot for special or primary weapons.
 
 
@@ -75,11 +75,11 @@ A slot usually reserved for exotics that can deal high burst or sustain damage, 
 **Falling Guillotine** - Close range damage dealer for aggressive players. Combine with passive guard, lucent blade, and disrupting blade for overload champs.
 
 
-**Rocket Launchers** - High burst for champions, ranged damage for bosses and also very good add-clear. Ideal for double primary or long range loadouts. 
+**Rocket Launchers** - High burst for champions, ranged damage for bosses and also very good add-clear. Ideal for double primary or long range loadouts.
 
 **Exotics**: Two-tailed Fox or Wardcliff Coil for burst, Deathbringer or Eyes of Tomorrow for add-clear.
 
-**Legendary RL**: For add-clear, look for high blast radius perks, Chain Reaction, Field Prep or Ambitious Assassin. For high burst damage, look for velocity perks, Impact Casing, Lasting Impression, Auto-loading Holster or Clown Cartridge. 
+**Legendary RL**: For add-clear, look for high blast radius perks, Chain Reaction, Field Prep or Ambitious Assassin. For high burst damage, look for velocity perks, Impact Casing, Lasting Impression, Auto-loading Holster or Clown Cartridge.
 Precision frame RL’s have intrinsic tracking, making them better than other archetypes.
 
 
@@ -105,11 +105,11 @@ Explosive payload is recommended.
 
 - True Prophecy - Gunsmith rank up drop (explosive payload)
 - Seventh Seraph Officer Revolver - World drop (timed payload or vorpal)
-- Crimil’s Dagger - Iron Banner drop (explosive payload) 
+- Crimil’s Dagger - Iron Banner drop (explosive payload)
 - Arc Hand Cannon - Nation of Beasts (any roll with explosive payload) - Last Wish Raid
 - Waking Vigil (Rapid hit + Vorpal) - Dreaming City and Shattered Throne
 
-## High-Impact snipers 
+## High-Impact snipers
 
 - (Deep Stone Crypt Raid, Reconstruction or Lead from Gold with Vorpal)
 - (Crucible post-match drop, Triple-tap or Clown Cartridge with Vorpal)
