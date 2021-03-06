@@ -2,7 +2,10 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[Classes](./class.html)
+[Weapons](./weapons.html)
+[Mods and Builds](./weapons.html)
+[Strikes](./strikes.html)
 
 Welcome to a GrandMaster Ordeal Guide for Season of the Chosen:
 
