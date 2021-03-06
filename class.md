@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Choose your Class
+title: Choose your Class & Element
 description: Hunter, Titan, Warlock, what Element?
 ---
 
-# Welcome to another page
+# Choose your Class & Element
 
 ## HUNTER:
 
