@@ -4,7 +4,7 @@ title: GM Guide: The Ordeal Strikes
 description: Season of the Chosen
 ---
 
-## Choose Your Ordeals
+# Choose Your Ordeals
 
 _(This Page will get updated with strategies and loadout suggestions when all the seasonal GM’s are out)_
 

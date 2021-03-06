@@ -4,7 +4,7 @@ title: GM Guide: Class & Element
 description: Hunter, Titan, Warlock
 ---
 
-# Choose Your Class & Element
+# GM Guide: Class & Element
 
 ## HUNTER:
 
