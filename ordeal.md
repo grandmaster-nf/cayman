@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grandmaster Nightfall: The Ordeal Strikes
+title: GM Guide: The Ordeal Strikes
 description: Season of the Chosen 
 ---
 
