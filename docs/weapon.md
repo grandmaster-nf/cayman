@@ -4,7 +4,7 @@ title: GM Guide: Weapons
 description: Choose your Arsenal
 ---
 
-# Choose Your Weapons
+# GM Guide: Weapons
 
 Weapon choice in GM Ordeals comes down to seasonal champion mods, recently boosted archetypes (Hello Rockets), high burst and good sustain damage.
 
