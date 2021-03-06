@@ -25,7 +25,6 @@ Duskfield is the grenade of choice and synergizes with the Durance fragment that
 
 Exotic armor - Mask of Bakris, Assassin's Cowl, Fr0st-EE5, Aeon Swift (with Sect of Insight mod). Revenants should spec for mobility and discipline.
 
-
 Unfortunately, the arc and solar hunter subclasses offer no team synergy or viable benefit for endgame content like GM ordeals. A Nighthawk wearing Sharpshooter hunter could work in some cases but the subclass is limited to a one shot super. 
 
 
@@ -76,7 +75,7 @@ Surge Detonator artifact mod will allow overload champs to be stunned with grena
 Exotic armor - Geomag Stabilizers, spec for high intellect.
 
 
-### Shadebinder - 
+### Shadebinder
 Good add clear super that also lets you freeze barrier champs and negate their regen. Strong territory control with duskfield grenades and stasis turrets. Fragments to run - Hedrons for more bonus damage and Torment to regen grenades. This is however a situational subclass and will only be effective for GMs that require add clear, a boss with long damage phase and other teammates running well and/or banner shields.
 
 Exotic armor - Verity’s Brow, Aeon Soul (with Sect of Insight mod). Shadebinders should spec for discipline and intellect.
