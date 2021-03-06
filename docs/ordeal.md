@@ -26,7 +26,7 @@ Overload and Barrier champs. Fallen enemies. Boss has 4 phases. Boss room has sn
 
 
 ### Warden of Nothing
-All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double chaos reach.
+All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double Chaos Reach.
 
 **Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
 **Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
@@ -39,7 +39,7 @@ Barrier and Unstoppable champs. Some Vex but mostly Cabal enemies. Lots of one-s
 
 
 ### Arms Dealer
-Barrier and Unstoppable champs. Boss can be nuked. Mostly Void shields. Grounded. Arc Resist, Concussive Dampener. Boss can be summoned early for extra damage while riding the elevator up. Easiest GM of the season for new players.
+Barrier and Unstoppable champs. Boss can be nuked. Mostly Void shields. Grounded. Arc Resist, Concussive Dampener. Boss can be summoned early for extra damage while riding the elevator up. _Easiest GM of the season for new players._
 
 **Class Composition:** Tether & Chaos Reach(x2) or Thundercrash(x2)
 
