@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![seal](https://grandmaster-nf.github.io/seal.png)
+
 # Welcome to a GrandMaster Ordeal Guide for Season of the Chosen
 
 **What is a Grandmaster ordeal?** It’s the same as the Master version but with curated modifiers and contest mode that makes it extremely difficult content - Limited revives, Extinguish (team wipe takes you to orbit), 25 PL penalty and a 45 minute timer that removes any remaining revives. These are additional to the Master modifiers like Match Game, Equipment lock, and so on.
