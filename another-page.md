@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Know Your Enemy
+description: Types of Champions
 ---
 
-## Welcome to another page
+## Meet your Champions
 
 _yay_
 
