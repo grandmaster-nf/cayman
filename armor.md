@@ -14,12 +14,15 @@ Unlike general PVE content, stats like **Recovery** do not matter a lot for GM o
 **Resilience**, which is often ignored, is now actually worth investing in, because higher tiers can let you tank some one-shot abilities. 40 resilience is the minimum recommended and 60 the max if you want to survive one-shot snipers. Under 40 you will find yourself dying way too often to red bar enemies and splash damage attacks.
 
 Hunters should always spec high **mobility** for dodge cooldown. Void and Stasis subclasses have strong grenades so **Discipline** is also a good investment. 
+
 ```Example - 90 MOB 50 RES 70 REC 70 DIS 50 INT 20 STR```
 
-Titans should spec Intellect because both Banner Shield and Thundercrash rely on supers. The difference between 90 and 100 Intellect is minimal (4 seconds).
+Titans should spec **Intellect** because both Banner Shield and Thundercrash rely on supers. The difference between 90 and 100 Intellect is minimal (4 seconds).
+
 ```Example - 40 MOB 60 RES 70 REC 50 DIS 90 INT 40 STR```
 
-Warlocks have their class ability tied to recovery so that’s worth investing in. Discipline and Intellect are recommended next. 
+Warlocks have their class ability tied to **Recovery** so that’s worth investing in. **Discipline** and **Intellect** are recommended next. 
+
 ```Example - 30 MOB 50 RES 80 REC 80 DIS 90 INT 20 STR```
 
 The elemental affinity of armor determines some of the mods you can slot. Ideally you should have fully MW’ed Chest and Class item armors for each of the three elements in order to slot the most beneficial mods like damage resistance, and having the freedom of swapping elements. 
