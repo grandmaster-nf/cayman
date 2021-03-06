@@ -52,9 +52,9 @@ Exotics like Divinity, Eriana’s Vow and Izanagi are ideal for GMs and will pai
 ## Exotic specials:
 
 
-- Eriana’s Vow - excellent for barrier champs, but with snipers having AB this season, it’s not required and will free up the exotic slot for heavy.
-- Divinity - best overload weapon and boss debuff for extra 35% damage. Can be combined with Rocket launchers with Lasting Impression and long range primary with Sundering Glare.
-- Izanagi’s Burden - high burst, especially when combined with divinity (no need to aim). Can use AB mod this season.
+- **Eriana’s Vow** - excellent for barrier champs, but with snipers having AB this season, it’s not required and will free up the exotic slot for heavy.
+- **Divinity** - best overload weapon and boss debuff for extra 35% damage. Can be combined with Rocket launchers with Lasting Impression and long range primary with Sundering Glare.
+- **Izanagi’s Burden** - high burst, especially when combined with divinity (no need to aim). Can use AB mod this season.
 
 Special ammo is abundant with special ammo finders, Aeon gloves and special ammo finisher mods.
 
