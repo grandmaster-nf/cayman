@@ -48,4 +48,4 @@ Class Composition: Tether, Chaos Reach(x2), Thundercrash(x2)
 Barrier and Unstoppable champs. Cabal enemies. ???
 
 
-[back](./)
+[back](https://grandmaster-nf.github.io/)

@@ -84,4 +84,4 @@ Good add clear super that also lets you freeze barrier champs and negate their r
 ### Voidwalkers - Attunement of Chaos
 Decent for GMs with a high discipline Contraverse Holds build, but this season there are no void artifact mods to supplement this subclass. Would be ideal with oppressive darkness, when the mod comes back. Well of radiance and Chaos reach builds are better suited for GM warlock players.
 
-[back](./)
+[back](https://grandmaster-nf.github.io/)

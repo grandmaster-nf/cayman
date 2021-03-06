@@ -153,4 +153,4 @@ Explosive payload is recommended.
 ![thirdaxiom](https://grandmaster-nf.github.io/assets/images/thirdaxiom.png)
 
 
-[back](./)
+[back](https://grandmaster-nf.github.io/)

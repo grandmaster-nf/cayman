@@ -96,4 +96,4 @@ Rocket add-clear and burst damage** - Taking Charge, Blast Radius, Argent Ordnan
 **Warmind and CWL Combo** - Taking Charge, High Energy Fire, Global Reach, Shield-break Charge, Powerful friends. Mix and match both styles for bonus damage and add-clear potential.
 
 
-[back](./)
+[back](https://grandmaster-nf.github.io/)
