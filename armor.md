@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Armor
-description: This is just another page
+description: Stats, Mods, Builds
 ---
 
 # ARMOR 
