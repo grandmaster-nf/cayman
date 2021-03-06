@@ -29,7 +29,7 @@ Exotic armor - Mask of Bakris, Assassin's Cowl, Fr0st-EE5, Aeon Swift (with Sect
 Unfortunately, the arc and solar hunter subclasses offer no team synergy or viable benefit for endgame content like GM ordeals. A Nighthawk wearing Sharpshooter hunter could work in some cases but the subclass is limited to a one shot super. 
 
 
-3# TITAN:
+## TITAN:
 
 ### Sentinel - Code of the Commander
 The ideal, and usually the only choice for titans doing GM’s. The banner shield super blocks every type of damage for a long duration, while also making heaps of orbs and buffing weapon damage (35%) for your team. Paired with Ursa Furiosa exotic gloves, you can get close to 80% super energy back after each super! You are also mobile during super and able to move around or reposition as required.
