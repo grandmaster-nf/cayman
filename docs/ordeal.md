@@ -82,7 +82,7 @@ Barrier and Unstoppable champs. Boss can be nuked. Mostly Void shields. Grounded
 ![provinggrounds](https://grandmaster-nf.github.io/assets/images/provinggrounds.jpg)
 {: refdef}
 ### Proving Grounds
-Barrier and Unstoppable champs. Cabal enemies. ???
+Barrier and Unstoppable champs. Cabal enemies. ????
 
 
 [back](https://grandmaster-nf.github.io/)
