@@ -20,6 +20,25 @@ Overload and Barrier champs. Fallen and Hive enemies. High add density and multi
 **Class Composition:** Tether, Banner Shield, Well of Radiance.
 **Team Weapon Loadout:** AB snipers, Overload bows, RIskrunner, Anarchy, Xenophage, Rocket Launchers.
 
+#### Safe loadout for Devils Lair:
+ 
+Hunter - Stasis with duskfield grenades, hedrons + torment + durance fragment.
+Mobility and Discipline spec armor. Aeon exotic gloves with Sect of Insight mod. Resonance Siphon artifact mod.
+ 
+Warlock - Well of radiance with Phoenix Protocol exotic chest. Recovery and Intellect spec armor. Two players can run this warlock setup with a banner titan.
+ 
+Titan - Banner Shield with Ursa Furiosa exotic gloves. Resilience (60) and Intellect spec armor. Titan should be one of the Anarchy users.
+ 
+Two players run Anarchy with elemental legendary bows - solar and arc, and Anti-barrier sniper. Third player runs an AB scout, LeMonarque exotic bow and a RL or LMG (arc or solar). Scout user should have Sundering Glare artifact mod.
+ 
+Start of the Ordeal, hug the right side and run past most adds to the end with a servitor/captain. Clear adds and work on overload champion. Sparrow inside and clear hive, kill the barrier champion. Next room, clear hive and solar wizard on left side first, spawn kill the thrall from the left door, then work on the overload captain. Use Aeon finisher for ammo when safe to do so. Move up towards the right, while keeping cover on the left to avoid snipers. Clear barrier knight and then work on the fallen fighting the wizards. Take out the vandal snipers first, then solar wizards, arc knights and arc captains and finally kill the overload captain.
+ 
+Jump up on the ledge where the vandals were sniping from, after activating the ghost scan. Use the left side with cover and banner shield super to block damage. Alternate banner and well of radiance to clear adds till the shank wave comes out, then kill the fallen champion and get ready for the second wave. Solar shielded wizards should be killed asap - break shields and spam stasis or grenades on adds. Barrier knight boomer attacks can kill with splash damage, so be careful. Final wave will bring more fallen and two overload captains. Melee vandals will teleport to your platform to use anarchy to trap them. Collect ammo after the room is clear and move to the next area. Overload captain and few adds on the way to the big area with the walker and brigs.
+ 
+Immediately clear the fallen next to the barrier servitor, use a well. Snipe the vandal snipers on the right side from a distance, then clear the fallen in the building to the left. Moving forward will spawn the walker tank and two brigs, so try to clear as many sniper vandals as you can before. Use the central building for cover and clear the brigs one by one - safe way is to attach anarchy and take cover. Their aerial AoE attack has a big radius and can wipe the team. Jump on top of the central building and anarchy the tank, then snipe the legs. Taking out the walker will stop the fallen dropships from respawning and dropping in more adds. Three overload captains and two barrier servitors remain, take them out one by one by using cover and supers as required. Killing the tank earlier gives you ease of movement and no fear of getting wiped buy laser targeting or splash damage. Once the door open, another overload captain and some adds will come out, clear theme and scavenge for ammo.
+ 
+Move up to the boss arena and rush into the room to the left - that is your safe spot. Two overloads can be stunned through the windows. Attach anarchy grenades on the boss till it goes immune (⅔ health). More adds will come rushing, trap with anarchy and kill them from the safety of the room while using banner shield and wells to keep alive. Monarque player should break the void servitors shielding the boss. Anarchy the boss till two more overload captains spawn, kill them similar to the previous champions. Watch out for exploding shanks and resilient vandals. There will be a couple of adds under the room, go down and kill them so you can use that spot to damage the boss till the next wave of void servitors come out. This is it, break the shields and attach anarchy on the boss till it dies.
+
 {:refdef: style="text-align: center;"}
 ![fallensaber](https://grandmaster-nf.github.io/assets/images/fallensaber.jpg)
 {: refdef}
