@@ -42,7 +42,7 @@ Mods are a game changer for endgame content and will differ for each ordeal and 
 - Dynamo is a good option for nightstalker hunters.
 
 **Examples:**
-Mobility +10 (3), Sniper Ammo Finder (3), Rocket Ammo Finder (3), Global Reach (1)
+Mobility +10 (3), Sniper Ammo Finder (3), Rocket Ammo Finder (3), Global Reach (1) / 
 Recovery +5 (2), Machine Gun Ammo Finder (3), Rage of the Warmind (5)
 
 ### Gloves
@@ -51,7 +51,7 @@ Recovery +5 (2), Machine Gun Ammo Finder (3), Rage of the Warmind (5)
 - Glove energy is reserved for champion mods and it’s recommended that each player covers at least one champion mod.
 
 **Examples:**
-Mobility +5 (1), Overload Bow (1), Anti-Barrier Sniper (6), Protective Light (2)
+Mobility +5 (1), Overload Bow (1), Anti-Barrier Sniper (6), Protective Light (2) / 
 Intellect +10 (5), Anti-Barrier Scout (1), Unstoppable Hand Cannon (1), Taking Charge (3)
 
 ### Chest
@@ -62,7 +62,7 @@ Intellect +10 (5), Anti-Barrier Scout (1), Unstoppable Hand Cannon (1), Taking C
 Having a fully MW’ed chest armor for all 3 elements lets you swap elemental resistance depending on the ordeal modifiers and champion types. Type `!resist` in discord to view detailed information about resistance mods post Beyond Light.
 
 **Examples:**
-Recovery +10 (4), Arc Resist (1), Concussive Dampener (1), Powerful Friends (4)
+Recovery +10 (4), Arc Resist (1), Concussive Dampener (1), Powerful Friends (4) / 
 Intellect +10 (5), Solar Resist (1), Sniper Reserves (3), Wrath of Rasputin (1)   
 
 ### Boots
@@ -71,14 +71,14 @@ Intellect +10 (5), Solar Resist (1), Sniper Reserves (3), Wrath of Rasputin (1)
 - Ammo scavengers can only be slotted on boots and they are a must since they let you pick up more ammo from drops.
 
 **Examples:**
-Mobility +10 (3), Grenade Launcher Scavenger (3), Traction (0), High Energy Fire (4)
+Mobility +10 (3), Grenade Launcher Scavenger (3), Traction (0), High Energy Fire (4) / 
 Discipline +5 (1), Sniper Scavenger (3), Rocket Scavenger (3), Radiant Light (3)
 
 ### Class item - Stat boost, Artifact mods, CWL and/or Warmind cell mods.
 This is where most of the artifact mods will be slotted and they range from 1-7 energy each.
 
 **Examples:**
-Recovery +5 (2), Sundering Glare (6), Special Finisher (2)
+Recovery +5 (2), Sundering Glare (6), Special Finisher (2) / 
 Resilience +5 (1), Volatile Conduction (6), Surge Detonators (2), Shield-break Charge (1)
 
 
