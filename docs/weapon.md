@@ -8,7 +8,7 @@ description: Choose your Arsenal
 
 Weapon choice in GM Ordeals comes down to seasonal champion mods, recently boosted archetypes (Hello Rockets), high burst damage and good sustain damage.
 
-Weapon perks for GMs and endgame vary from your usual best in slot gun perks. Feeding Frenzy + Rampage may be your favorite perks for regular content, but they don’t work well in GMs because you won’t be killing adds rapidly to take advantage of reload and damage perks. Instead you want to run perks like Vorpal, Explosive payload, Disruption break, etc that synergise with endgame content and champion mods. Exotic primaries are less viable and often not worth using in GMs, but the DMT scout and the 3 exotic bows might change that this season.
+Weapon perks for GMs and endgame vary from your usual best in slot gun perks. Feeding Frenzy + Rampage may be your favorite perks for regular content, but they don’t work well in GMs because you won’t be killing adds rapidly to take advantage of reload and damage perks. Instead you want to run perks like Vorpal, Explosive payload, Disruption break, etc that synergise with endgame content and champion mods. Exotic primaries are less viable and often not worth using in GMs, but the Dead Man's Tale scout and the 3 exotic bows will change that this season.
 
 ## Primary
 This weapon will vary every season due to the changing artifact mods. This season we have Anti-Barrier Scout Rifle, Unstoppable Hand Cannon and Pulse, and Overload Bow.
@@ -24,7 +24,7 @@ The primary weapon perks you want for GMs are:
 
 Reload perks that synergize for GMs - **overflow**, **rapid hit**, **auto loading holster**. **Full-auto** is also great (for scouts) if the base handling and reload is high.
 
-**Armor Piercing Rounds** are great for anti-barrier weapons. Straight up bonus 5% damage to shielded adds. **High Caliber Rounds** would be the second best option.
+**Armor Piercing Rounds** are great for anti-barrier weapons since they add bonus 5% damage to shielded adds. **High Caliber Rounds** would be the second best option.
 
 Bow perks: **shorter Draw time**, **Archer’s Tempo/Rapid Hit**, **Explosive Head (must have)**.
 
@@ -37,11 +37,11 @@ Bow perks: **shorter Draw time**, **Archer’s Tempo/Rapid Hit**, **Explosive He
 - **Riskrunner** - very good for add clear against hive and fallen.
 
 ## Special
-With the introduction of champion mods to special weapons with Beyond Light, it’s no longer required to run double primary loadouts for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout.
+With the introduction of champion mods to special weapons in Beyond Light, it’s no longer required to run a double primary loadouts for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout.
 
 Sniper rifles having anti-barrier and getting bonus damage from the mod make them the ideal special weapons to use for GMs that have barrier champs.
 
-Vorpal is the best perk to have on snipers. A high-impact Anti-barrier sniper with vorpal will break a champion’s barrier with one precision shot. Reload perks like Triple tap,Clown cartridge and Fourth times the charm are also very useful.
+Vorpal is the best perk to have on snipers. A high-impact Anti-barrier sniper with vorpal will break a champion’s barrier with one precision shot. Reload perks like Triple tap, Clown cartridge and Fourth times the charm are also very useful.
 
 A breach Grenade Launcher with blinding grenades is also very handy, but only one player should run it. Blinding grenades for GLs will let you stun multiple enemies. Also works on majors and elites, but not on champs or bosses. Auto-loading holster recommended.
 
@@ -120,11 +120,13 @@ Tracking / Field prep / Auto-loading holster + Vorpal
 
 
 ## Overload Bows (Explosive head is a must for legendary bows)
-- Kinetic Bow for Overload champs (Europa milestones and Lost Sectors)
+- Kinetic Bows for Overload champs - Biting Winds (Europa milestones and Lost Sectors),
+   Whispering Slab (World drop), Accrued Redemption (Garden of Salvation raid)
 ![bitingwinds](https://grandmaster-nf.github.io/assets/images/bitingwinds.png)
 - Solar Bow for Overload champs and solar shields (Last Wish Raid)
 ![tyrannyofheaven](https://grandmaster-nf.github.io/assets/images/tyrannyofheaven.png)
-- Arc Bow for Overload champs and Arc shields (World drop, Engrams)
+- Arc Bows for Overload champs and Arc shields - Arsenic Bite (World drop, Engrams), 
+  Point of the Stag (Iron Banner, previous season)
 ![arsenicbite](https://grandmaster-nf.github.io/assets/images/arsenicbite.png)
 
 
