@@ -4,7 +4,9 @@ title: GM Guide: Class & Element
 description: Hunter, Titan, Warlock
 ---
 
-{:refdef: style="text-align: center;"}## Welcome to the Grandmaster Ordeal Guide{: refdef}
+{:refdef: style="text-align: center;"} 
+## Welcome to the Grandmaster Ordeal Guide 
+{: refdef}
 
 {:refdef: style="text-align: center;"}
 ![seal](https://grandmaster-nf.github.io/assets/images/seal.png)
