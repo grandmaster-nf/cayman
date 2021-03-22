@@ -120,4 +120,5 @@ Barrier and Unstoppable champs. Some Vex but mostly Cabal enemies. Lots of one-s
 Barrier and Unstoppable champs. Cabal enemies. ????
 
 
+
 [back](https://grandmaster-nf.github.io/)
