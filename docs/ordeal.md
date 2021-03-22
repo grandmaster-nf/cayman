@@ -62,11 +62,11 @@ Titan - Thundercrash with Falling Star chest. High resilience and Intellect armo
 
 Arms Dealer is a repeated GM and the strategy involves nuking the boss to as low health as possible, if not outright killing him. The boss can be summoned early which allows us to damage him more than normal, so a combination of tether hunter and two chaos reach warlocks is ideal for range and burst. 
 
-Hunter should run an AB scout with Sundering Glare artifact mod. Combine with an overload Exotic bow - Ticcu’s or LeMonarque. Even though this GM does not have any overload champs, overload mods debuff enemies and allow you to engage from range. RL for heavy. (Can also run DMT + void HC + RL). Deathbringer is also a good option.
+Hunter should run an AB scout with Sundering Glare artifact mod. Combine with an overload Exotic bow - Ticcu’s or LeMonarque. Even though this GM does not have any overload champs, overload bows debuff enemies and allow you to engage from range. RL for heavy. (Can also run DMT + void HC + RL). Deathbringer is also a viable option.
 
 Warlocks and Titans should use AB snipers with at least one person running an unstoppable Hand Cannon (explosive payload recommended) and Anarchy.
 
-Grounded modifier is active so try not to jump while taking damage. The cabal will spam sticky nades so high resilience is recommended. If you get stuck with a nade, most likely you will get one shot by it. Solar resist and concussive dampener will allow you to tank fatal damage from snipers, grenades and incendiary champions. The void grenades left by psions on the floor are deadly.
+Grounded modifier is active so try not to jump while taking damage. The cabal will spam sticky nades so high resilience is recommended. If you get stuck with a nade, it will most likely one shot you. Solar resist and Concussive dampener will allow you to tank fatal damage from snipers, grenades and incendiary champions. The void grenades left by psions on the floor are deadly.
 
 From spawn, bait the unstoppable champion by shooting in the direction of the adds, stun and dispatch with anarchy and snipers. Be careful while using finishers on unstoppable cabal champs, they can blow and wipe the fireteam if a player is shooting the tank on their backs. Clear the minor ads (void shields) and split up to defeat the AB colossus. Initiate scan and head out the door. Keep towards the left side and either blow up the cabal thresher, or wait for it to go away. Take out the phalaxes and legionaries, and prioritize the psion snipers hiding behind the boxes. The next wave will drop and you will have to deal with an unstoppable champion. Once the room is clear, pick up the solar orb then drop it to despawn.
 
