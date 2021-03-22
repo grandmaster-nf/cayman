@@ -38,7 +38,7 @@ Unfortunately, the arc and solar hunter subclasses offer no team synergy or viab
 {: refdef}
 
 ### Sentinel - Code of the Commander
-ideal and usually the only choice for titans doing GMs. The banner shield super blocks every type of damage for a long duration, while also making heaps of orbs and buffing weapon damage (35%) for your team. Paired with the Ursa Furiosa exotic gloves, you can regain upto 80% super energy while blocking with the banner shield! It’s also a mobile super that allows movement and lets you reposition.
+It's the ideal and usually the only choice for titans doing GMs. The banner shield super blocks every type of damage for a long duration, while also making heaps of orbs and buffing weapon damage (35%) for your team. Paired with the Ursa Furiosa exotic gloves, you can regain upto 80% super energy while blocking with the banner shield! It’s also a mobile super that allows movement and lets you reposition.
 
 This subclass is not limited to the super - Suppressor grenades are very good for disorienting mobs and elites (they don’t work on champions), the void detonators from both melee and grenades will heal you and your teammates. Use the super o block deadly incoming damage from champs, elites, minibosses and bosses, allowing for maximum super regain while your team takes out enemies from the cover of the shield. Standing close to the titan also makes the shield last longer.
 
