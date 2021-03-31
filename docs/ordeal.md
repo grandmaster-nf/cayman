@@ -17,7 +17,7 @@ _(This Page will get updated with strategies and loadout suggestions when all th
 ### Devil’s Lair
 Overload and Barrier champs. Fallen and Hive enemies. High add density and multiple waves. All types of shields. Arc Resistance, Concussive Dampener, Sniper resist.
 
-**Class Composition:** Tether, Banner Shield, Well of Radiance, Revenant, Shadebinder, Chaos Reach.
+**Class Composition:** Tether, Banner Shield, Well of Radiance, Revenant, Shadebinder, Chaos Reach. CWL Mods, one player can run warmind cell build.
 
 
 **Team Weapon Loadout:** AB snipers, Overload bows, Anarchy, Xenophage, Rocket Launchers, Arc/Void LMG
@@ -48,9 +48,9 @@ Move up to the boss arena and rush into the room to the left - that is your safe
 ### Arms Dealer
 Barrier and Unstoppable champs. Void shields. Grounded. Arc Resist, Solar Resist, Concussive Dampener. Boss can be summoned early for extra damage while riding the elevator up - nuking the boss is recommended. Medium-Long range engagements. 
 
-**Class Composition:** Tether, Chaos Reach(x2), Thundercrash(x2). Well and Banner if you don’t nuke boss. 
+**Class Composition:** Tether, Chaos Reach(x2), Thundercrash(x2). Well and Banner if you don’t nuke boss. CWL mods.
 
-**Team Weapon Loadout:** AB sniper, Unstoppable HC, Anarchy, RLs, Xeno, Ticcu’s, Izanagi, Eriana’s Vow.
+**Team Weapon Loadout:** AB sniper, Unstoppable HC, Anarchy, RLs, Xeno, Ticcu’s, Izanagi, Eriana’s Vow. Sundering Glare artifact mod.
 
 #### Safe loadout for Arms Dealer:
 
@@ -84,9 +84,13 @@ If you’re not running the aggressive boss kill loadout, use the safe banner + 
 ![provinggrounds](https://grandmaster-nf.github.io/assets/images/provinggrounds.jpg)
 {: refdef}
 ### Proving Grounds
-Barrier and Unstoppable champs. Cabal enemies, a few Vex. Mostly Void and Solar shields, a couple of Arc shields. Solar resist, Concussive dampener, 50+ resilience. Tether, Banner Shield (x2), Chaos Reach. AB snipers, AB scout, Void and Solar Unstoppable Pulse rifles, Anarchy, Void RL, Xeno, Ticcu’s. Sundering Glare artifact mod.
+Barrier and Unstoppable champs. Cabal enemies, a few Vex. Mostly Void and Solar shields, a couple of Arc shields. Solar resist, Concussive dampener, 50+ resilience. 
 
-Safe loadout for Proving Grounds:
+**Class Composition:** Tether, Banner Shield (x2), Chaos Reach. CWL Mods (Taking charge, High Energy Fire, Protective Light)
+
+**Team Weapon Loadout:** AB snipers, AB scout, Void and Solar Unstoppable Pulse rifles, Anarchy, Void RL, Xeno, Ticcu’s. Sundering Glare artifact mod.
+
+#### Safe loadout for Proving Grounds:
 
 Hunter - Tether (bottom-tree) with Aeon Gloves recommended. Optional Frost-EE5 or Assassin’s Cowl. Mobility and Discipline armor, 50+ resilience recommended.
 
