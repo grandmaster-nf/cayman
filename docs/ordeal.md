@@ -118,7 +118,10 @@ This encounter can get overwhelming very quickly if players die to solar orbs/br
 
 Try to kill one champ asap, use tether/chaos reach after stunning it to burst it down, and banner shield to block the orbs and other champion. The raised pillar near the door is good cover and can block most of the orbs if you stay behind it. The boss gets tired of shooting the solar orbs after roughly a dozen blasts. This is when you move up to break the shield generator by using the two pillars on the left and right edges of the bubble - place anarchy and grenades. One player can aggro boss while the others shoot. When the shield is broken, damage the boss down to his final chunk of health and clear the next wave of adds. Boss will jump up on his fiery platform and shield up for the final time, and send forth the final pair of unstoppable champions.
 
-Fall back and kill both the champs, finisher for ammo if required. You can either keep on shooting the orbs till he cools down or start baiting them while moving close to him. Let one player bait and run under the platform to lose aggro, then split up and jump up to break the shield generator - one player keeps agro while others shoot. When it’s broken, the boss will jump down and summon the last wave of adds. Get back to the safe area and use a banner shield to block while the other players burst him down with heavy, snipers and super. Congratulations, you have proven yourself worthy of being the Vanguard’s champion, your bottomless grief + unrelenting adept gun awaits! (Videos showing boss and tank room clears uploaded, check the discord).
+Fall back and kill both the champs, finisher for ammo if required. You can either keep on shooting the orbs till he cools down or start baiting them while moving close to him. Let one player bait and run under the platform to lose aggro, then split up and jump up to break the shield generator - one player keeps agro while others shoot. When it’s broken, the boss will jump down and summon the last wave of adds. Get back to the safe area and use a banner shield to block while the other players burst him down with heavy, snipers and super. 
+
+Congratulations, you have proven yourself worthy of being the Vanguard’s champion, your bottomless grief + unrelenting adept gun awaits! 
+(Videos showing boss and tank room clears uploaded, check the discord).
 
 
 {:refdef: style="text-align: center;"}
@@ -128,6 +131,7 @@ Fall back and kill both the champs, finisher for ammo if required. You can eithe
 All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double Chaos Reach.
 
 **Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
+
 **Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
 
 
