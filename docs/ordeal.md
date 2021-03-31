@@ -80,6 +80,50 @@ Stay on the lower level and clear the flame turrets while watching out for the u
 
 If you’re not running the aggressive boss kill loadout, use the safe banner + well loadout for boss room. This will extend the fight by a long time and you will have to deal with a lot of adds, two threshers, flame turrets and the boss sniping you from the platforms. The corner to the far right (under the boss pillar) is a good spot to bait adds and use supers from. Invis hunter should dunk the solar orbs. In the final phase the boss can aggro and chase you.   
 
+{:refdef: style="text-align: center;"}
+![provinggrounds](https://grandmaster-nf.github.io/assets/images/provinggrounds.jpg)
+{: refdef}
+### Proving Grounds
+Barrier and Unstoppable champs. Cabal enemies, a few Vex. Mostly Void and Solar shields, a couple of Arc shields. Solar resist, Concussive dampener, 50+ resilience. Tether, Banner Shield (x2), Chaos Reach. AB snipers, AB scout, Void and Solar Unstoppable Pulse rifles, Anarchy, Void RL, Xeno, Ticcu’s. Sundering Glare artifact mod.
+
+Safe loadout for Proving Grounds:
+
+Hunter - Tether (bottom-tree) with Aeon Gloves recommended. Optional Frost-EE5 or Assassin’s Cowl. Mobility and Discipline armor, 50+ resilience recommended.
+
+Warlock - Chaos Reach with Geomag boots. 90+ Intellect armor, 50+ resilience recommended.
+
+Titan - Banner Shield with Ursa Furiosa gloves. 90+ Intellect, high Discipline and 60 resilience. Suppressor grenades. Two players can run this setup with a hunter or warlock.
+
+Hunter should run AB scout with Sundering Glare artifact mod. Combine with an overload Exotic bow - Ticcu’s or LeMonarque. Even though this GM does not have any overload champs, overload mods debuff enemies and allow you to engage from range. Void RL for heavy, auto loading holster recommended.
+ 
+Warlocks and Titans should use AB snipers and both players should have unstoppable Pulse Rifles (Void and Solar), and Anarchy. Sundering Glare mod works with Pulses.
+
+This GM is intense and will prove a challenge, so be prepared to get a couple of practice runs in before you get a clear. Tank room and boss room can get stressful very quickly, but there is a lot of time and cover - positioning and coordinating champion breaks is key. 
+
+Clear the cabal and vex fighting each other, and watch out for turrets - clear everything at range. Unstoppable champion can be sundered and finished for ammo. Move up but watch out for the drop pods and barrier champion. Play this GM at range and use those AB guns to take out champs and majors/elites. Turrets on both sides should be sniped before moving forward. Clear the rest of the adds, including two unstoppable champions. Majors can be finished by Aeon hunter for special ammo. Once the first boss arrives, tag with anarchy and back away till he shields himself. Clear the add waves and two more unstoppable champions, then use the titan banner shield to aggro the boss inside his barrier bubble while the other players shoot the shield generator. Tether/Chaos reach the boss and move into the land tank, killing the three adds on the way to the tank room.
+
+Before jumping down, clear a few adds from up top. Invis, jump down and go either left or right behind the blast shields and snipe the two psions on the balconies. Try to kill the two interceptor psions (void shields) first - they will one shot you with a direct hit. I prefer using a void RL to kill them asap. Clear the rest of the adds, the random miniboss (arc/solar/psion) and blood guards (solar shields). Waves of cabal warbeasts will spawn from under the balconies after you kill the two barrier champions. Leave the interceptor psion near the tank doors for last. Collect ammo and make sure everyone has supers for the next part.
+
+The tank fight can be made easier by quickly targeting and bursting down the two barrier champions. They are aggressive and can rush you, and also love shooting through cover. As soon as the tank doors start opening, snipe the two psions on the balconies. Then use the banner shield and snipe the barrier champs asap; hunter can tether to keep the adds from flanking. Sunder one of the tanks and use chaos reach + snipers to kill it, then work on the other tank by splitting up. Tank splash damage on a wall behind you can kill, so be very careful about positioning. Clear the rest and move forward to reach the orb rooms.
+
+There will be an unstoppable champion and a random elite. Kill them from a distance and move ahead, take care of the sniper psion on the left side. Pick up the orb to spawn more adds from the opposite side and kill them from a distance - the gladiators can get up close very quickly. Snipe the turret to the left inside the next room, and use that spot to kill the barrier champion and two majors in the room. After dunking the first orb, clear the other orb room from range - Barrier champion, three turrets, psion snipers and a miniboss. Killing the miniboss will spawn more adds and a barrier champ in the main room. Clear them and dunk the second orb. Watch out for debris while jumping around in the orb rooms. 
+
+After dunking both orbs, use supers to clear the final add wave of this area - one unstoppable champion, one barrier champion and lots of warbeasts and major cabal troops. Use Aeon finishers to top off heavy and sniper ammo. Scavenge for ammo and then ride the elevator up to the boss room. The door where you enter the boss room is where you will likely stay for most part of this fight. Activate the panel to refill supers and summon Caiatl’s champion. Anarchy players should tag him with 2 shots and back off to the door, while the other player applies sundering glare and shoots the solar orbs.
+
+This encounter can get overwhelming very quickly if players die to solar orbs/bronto cannon, so keep on moving and use cover, while shooting all the solar orbs summoned by the boss. Clear the add wave and keep on damaging the boss till he’s down to 2/3rd health, use a banner shield if required but try to save it for when the boss gets shielded. The first shield phase is the toughest part of the boss fight because he will spam the solar orbs and his bronto cannon from inside the bubble while two unstoppable champions will rush for you. 
+Try to kill one champ asap, use tether/chaos reach after stunning it to burst it down, and banner shield to block the orbs and other champion. The raised pillar near the door is good cover and can block most of the orbs if you stay behind it. The boss gets tired of shooting the solar orbs after roughly a dozen blasts. This is when you move up to break the shield generator by using the two pillars on the left and right edges of the bubble - place anarchy and grenades. One player can aggro boss while the others shoot. When the shield is broken, damage the boss down to his final chunk of health and clear the next wave of adds. Boss will jump up on his fiery platform and shield up for the final time, and send forth the final pair of unstoppable champions.
+
+Fall back and kill both the champs, finisher for ammo if required. You can either keep on shooting the orbs till he cools down or start baiting them while moving close to him. Let one player bait and run under the platform to lose aggro, then split up and jump up to break the shield generator - one player keeps agro while others shoot. When it’s broken, the boss will jump down and summon the last wave of adds. Get back to the safe area and use a banner shield to block while the other players burst him down with heavy, snipers and super. Congratulations, you have proven yourself worthy of being the Vanguard’s champion, your bottomless grief + unrelenting adept gun awaits! 
+
+
+{:refdef: style="text-align: center;"}
+![wardenofnothing](https://grandmaster-nf.github.io/assets/images/wardenofnothing.jpg)
+{: refdef}
+### Warden of Nothing
+All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double Chaos Reach.
+
+**Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
+**Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
 
 
 {:refdef: style="text-align: center;"}
@@ -92,14 +136,6 @@ Overload and Barrier champs. Fallen enemies. Boss has 4 phases. Boss room has sn
 
 **Team Weapon Loadout:** AB snipers, Overload Riskrunner / Overload bows, Anarchy, Sword, Rocket Launchers.
 
-{:refdef: style="text-align: center;"}
-![wardenofnothing](https://grandmaster-nf.github.io/assets/images/wardenofnothing.jpg)
-{: refdef}
-### Warden of Nothing
-All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double Chaos Reach.
-
-**Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
-**Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
 
 {:refdef: style="text-align: center;"}
 ![insightterminus](https://grandmaster-nf.github.io/assets/images/insightterminus.jpg)
@@ -110,15 +146,6 @@ Barrier and Unstoppable champs. Some Vex but mostly Cabal enemies. Lots of one-s
 **Class Composition:** Tether, Banner Shield, Chaos Reach. Well not recommended, movement is key.
 
 **Team Weapon Loadout:** AB snipers, Unstoppable HC/Pulse, Anarchy, Xenophage, Rocket Launchers
-
-
-
-{:refdef: style="text-align: center;"}
-![provinggrounds](https://grandmaster-nf.github.io/assets/images/provinggrounds.jpg)
-{: refdef}
-### Proving Grounds
-Barrier and Unstoppable champs. Cabal enemies. ????
-
 
 
 [back](https://grandmaster-nf.github.io/)
