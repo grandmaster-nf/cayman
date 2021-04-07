@@ -125,6 +125,55 @@ Congratulations, you have proven yourself worthy of being the Vanguard’s champ
 
 
 {:refdef: style="text-align: center;"}
+![fallensaber](https://grandmaster-nf.github.io/assets/images/fallensaber.jpg)
+{: refdef}
+### Fallen S.A.B.E.R
+Overload and Barrier champs. Fallen enemies. 
+Boss has 4 phases. Boss room has sniper shanks, exploder shanks and barrier servitors. Arc captain and Void servitor shields. Arc or Solar resist, Sniper resist or Concussive Dampener. Riskrunner is very good for adds. Sword for champs and invis marauders. 
+Overload bows (void and arc). Anarchy and Xenophage. Blinding GL, suppressor grenades and Cellular suppression for add control. Lucent Blade mod is a must for sword player.
+
+**Class Composition:** Banner Shield Titan, Well of Radiance Warlock, Stasis Hunter.
+
+**Team Weapon Loadout:** AB snipers, Overload Riskrunner / Overload bows, Anarchy, Sword, Xenophage. 
+
+#### Safe loadout for Fallen Saber:
+
+Hunter - Revenant with Aeon Gloves. Duskfield grenades, hedrons + torment + durance fragments. Mobility + Discipline armor. Resonance Siphon artifact mod. 50+ Resilience.
+OR
+Tether (bottom-tree) with Aeon Gloves, Omnioculus or Sixth Coyote. Mobility and Discipline armor, 50+ resilience.
+
+Warlock - Well of Radiance with Phoenix Protocol. Recovery, Discipline and Intellect armor.
+OR
+Chaos Reach with Geomag boots. 90+ Intellect armor, 50+ resilience.
+OR
+Shadebinder with Verity’s Brow or Aeon Gloves. High discipline + Intellect armor. Duskfield grenades, hedrons + torment + durance fragments. Resonance Siphon artifact mod.
+
+Titan - Banner Shield with Ursa Furiosa gloves. 90+ Intellect, high Discipline and 60 resilience. Suppressor grenades and Towering Barricade.
+
+Saber GM is pretty flexible in terms of class makeup, build and weapons. You can play very safe with 2 Banners and a Well, or 1 Banner and 2 Wells; or get aggressive with stasis and sword(s). Add control abilities and weapons are very useful. AB snipers to deal with servitor champions, overload bows for captain champions. Anarchy for add control traps and sustain damage to boss, Xeno for quick ranged bursts and Sword for add clear and champs.
+
+Hunter players can run Riskrunner with Overload mod, a Sword with Passive guard and AB kinetic sniper This allows very aggressive play for add clear and dealing with overload champions and close range melee adds. Stasis excels in stun locking the overload captains and suppressing annoying adds like resilient marauders. Resonance Siphon mod lets you get back stasis abilities very quickly, while the super can control rooms very effectively.
+
+Warlocks can run Xenophage with solar warmind build and well of radiance. Xeno allows for quick burst damage to dispatch major vandals, marauders and shanks with added bonus of warmind cells to clear adds. Pair Xeno with AB sniper and overload bow. Well of radiance also lets you kill adds shielded by servitors. Focusing Lens artifact mod if running with a stasis teammate, it buffs weapon damage from inside the well on targets affected by stasis.
+
+Titans should run Banner Shield with Ursa gloves. Anarchy, Blinding grenade GL, overload bow, and suppressor nades. Titans job is to feed orbs to other players, and block melee adds that rush you. Standing behind the Titan is risky when melee adds are attacking because they can punch you through the banner shield.
+
+Sparrow to the Warsat and avoid getting killed by patrol adds on the way. Scan and back off towards the tree line after 5%. Snipe the fallen skiff guns, takes about 3-4 sniper shots per player. Riskruner/Stasis player should go to the warsat while the others stay back and snipe adds with bows. At 25% the resilient marauders will drop and everyone should back off. Use blinding/suppression nades and take them out - they can one shot you very easily. The overload champ and more adds will drop at 33%, prepare to rotate to the other side when that happens as the 2 fallen skiffs will deploy near the tree line. Stay in the warsat and snipe the guns off the skiffs, back off at 55% to deal with the barrier servitor. Use a well of radiance and snipe the champ, then deal with other adds. At 73%, the final skiff will arrive so move back to the tree line to snipe its guns off. Use the stasis super at the add spawn while the banner titan should super inside the warsat circle so the other players can kill the overload champion and rest of the adds. At 100% any remaining adds will despawn.
+
+Head down into the bunker and drop a well of radiance near the box on the left of the door. Quickly clear the shanks, and focus the sniper and resilient vandals. As soon as the invis melle adds start rushing from the left side, place Anarchy traps and use the banner shield to block them. Use stasis grenades and sword to kill them while they are suppressed by the shield. If the barrier servitor is shielding the overload champ, snipe it with AB guns. This will summon another overload captain and more shanks. To avoid having to deal with two overload champs at the same time, try to kill the first overload champ before killing the servitor. Once cleared, activate the panel and decide how you want to play the next part.
+
+One option is to stay near the panel after shooting it, use a well and/or banner to kill the adds from range and then move up to clear the two overloads. Another option is to move right side into the passage where the melee adds spawned from previously, and use that cover to take out adds. Watch out for sniper shanks and invis marauders. The other, more aggressive option is to back off inside the tunnel - this is where the two champions will spawn and you’re trying to spawn kill them with anarchy traps and sword. Plant a well or banner as soon as the panel is shot, then stun the overloads. Throw a stasis grenade/super and sword them down asap, use aeon finishers for ammo. Xeno the marauders from range and then drop down into the shaft leading to the arc room.
+
+The arc room is very simple - snipe the 2 shanks, and let one player go to pick up the orb. DO NOT shoot any shanks that spawn after, and back away from the stairs to avoid getting blown up. The orb carrier can follow after the lightning charge has passed and dunk the orb safely; the warlock can drop a healing grenade for safety. The shanks will shortly despawn. Banner titan can also block the adds/lightning but it’s not required. Move into the next room and use a well to kill the initial wave of adds. Use a banner shield when the marauders spawn and stasis super to suppress them, then snipe the barrier servitor. Move up on top of the stairs to the left and work on the overload champs, and the next wave of adds. Watch out for exploding shanks and melee vandals.
+
+Before entering the final room before the boss, snipe the barrier servitor from outside, and then snipe the sniper vandals. This will make the next room easier. Clear a few dregs and vandals on the side and use stasis super to stun lock the three overload champions. Tag them with anarchy and keep them stunned with overload bows so that the sword player can get close and finish them off. Collect ammo/orbs and jump down into the boss room - try not to die on the slide as it can put the revive in an awkward spot. Clear the two void servitors and a couple of shanks to start the boss fight.
+
+The boss fight can either be very simple or a massive pain, depending on your placement and boss burst ability. I recommend going left to the stairs from where you drop down into the room and quickly burst down the boss with Anarchy, Xeno and snipers - shoot its front thrusters for crit damage. After losing 1/4th of it’s HP, the shanks will get shielded and teleport away. This is the sniper phase and very lethal. Use the left cover to shoot normal shanks (they spawn indefinitely). As soon as the barrier servitor spawns, snipe it down and plant a well on the spot where the boss shank will teleport down to. Use heavy weapons and sword to burst it down to half HP asap because the sniper attack will one shot, even inside the well. Alternatively you can stay near the left side and use the banner shield as cover to shoot the boss from range.
+
+In the next phase, the boss will spawn indefinite exploding shanks and another barrier servitor. This phase can be used to build supers and ammo reserves, if required. Don’t let the shanks get close, and if a weak shank does get close, use a finisher to avoid getting blown up. Once you have supers and ammo, drop a well of radiance and snipe the barrier servitor to bring the boss down to its final phases. Burst it down from the well to the last quarter, which is the arc phase. This is when you can either use the banner shield (tag boss with anarchy first) and burst the boss down with snipers and Xenophage. Stasis super will help in keeping the adds and sniper shanks suppressed. Alternatively, use banner shield to block the boss up close so that the sword player can quickly spin to win with Fallen Guillotine. Use stasis super/grenade for stun and bonus damage; Xeno player can stay at range and snipe the shanks while helping with boss burst. Boss explodes, you win!   
+
+
+{:refdef: style="text-align: center;"}
 ![wardenofnothing](https://grandmaster-nf.github.io/assets/images/wardenofnothing.jpg)
 {: refdef}
 ### Warden of Nothing
@@ -133,17 +182,6 @@ All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar 
 **Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
 
 **Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
-
-
-{:refdef: style="text-align: center;"}
-![fallensaber](https://grandmaster-nf.github.io/assets/images/fallensaber.jpg)
-{: refdef}
-### Fallen S.A.B.E.R
-Overload and Barrier champs. Fallen enemies. Boss has 4 phases. Boss room has sniper shanks and barrier servitors. Similar to Exodus Crash, should require defensive supers (banner shield and wells). Arc and Void shields. Arc or Solar resist, Sniper resist. Riskrunner is very good for adds. Overload sword for champs and invis adds.
-
-**Class Composition:** Banner Shield(x2), Well of Radiance (x2), Tether.
-
-**Team Weapon Loadout:** AB snipers, Overload Riskrunner / Overload bows, Anarchy, Sword, Rocket Launchers.
 
 
 {:refdef: style="text-align: center;"}
