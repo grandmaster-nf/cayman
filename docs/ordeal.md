@@ -149,6 +149,8 @@ OR
 Shadebinder with Verity’s Brow or Aeon Gloves. High discipline + Intellect armor. Duskfield grenades, hedrons + torment + durance fragments. Resonance Siphon artifact mod.
 
 Titan - Banner Shield with Ursa Furiosa gloves. 90+ Intellect, high Discipline and 60 resilience. Suppressor grenades and Towering Barricade.
+OR
+Bubble with Helm of St.14 or Aeon Gloves. 90+ Intellect, 60 Resilience.
 
 Saber GM is pretty flexible in terms of class makeup, build and weapons. You can play very safe with 2 Banners and a Well, or 1 Banner and 2 Wells; or get aggressive with stasis and sword(s). Add control abilities and weapons are very useful. AB snipers to deal with servitor champions, overload bows for captain champions. Anarchy for add control traps and sustain damage to boss, Xeno for quick ranged bursts and Sword for add clear and champs.
 
@@ -156,7 +158,7 @@ Hunter players can run Riskrunner with Overload mod, a Sword with Passive guard 
 
 Warlocks can run Xenophage with solar warmind build and well of radiance. Xeno allows for quick burst damage to dispatch major vandals, marauders and shanks with added bonus of warmind cells to clear adds. Pair Xeno with AB sniper and overload bow. Well of radiance also lets you kill adds shielded by servitors. Focusing Lens artifact mod if running with a stasis teammate, it buffs weapon damage from inside the well on targets affected by stasis.
 
-Titans should run Banner Shield with Ursa gloves. Anarchy, Blinding grenade GL, overload bow, and suppressor nades. Titans job is to feed orbs to other players, and block melee adds that rush you. Standing behind the Titan is risky when melee adds are attacking because they can punch you through the banner shield.
+Titans should run Banner Shield with Ursa gloves. Anarchy, Blinding grenade GL, overload bow, and suppressor nades. Titans job is to feed orbs to other players, and block melee adds that rush you. Standing behind the Titan is risky when melee adds are attacking because they can punch you through the banner shield. Bubble Titans can run sword and aggressively clear adds with St14 Blessing of Light and Force Barrier overshield.
 
 Sparrow to the Warsat and avoid getting killed by patrol adds on the way. Scan and back off towards the tree line after 5%. Snipe the fallen skiff guns, takes about 3-4 sniper shots per player. Riskrunner/Stasis player should go to the warsat while the others stay back and snipe adds with bows. At 25% the resilient marauders will drop and everyone should back off. Use blinding/suppression nades and take them out - they can one shot you very easily. The overload champ and more adds will drop at 33%, prepare to rotate to the other side when that happens as the 2 fallen skiffs will deploy near the tree line. After clearing that wave, stay in the warsat and snipe the guns off the skiffs, back off at 55% to deal with the barrier servitor. Use a well of radiance and snipe the champ, then deal with other adds. At 73%, the final skiff will arrive so move back to the tree line to snipe its guns off. Use the stasis super at the add spawn while the banner titan should super inside the warsat circle so the other players can kill the overload champion and rest of the adds. At 100% any remaining adds will despawn.
 
