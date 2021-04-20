@@ -179,22 +179,80 @@ In the next phase, the boss will spawn indefinite shanks and another barrier ser
 ![wardenofnothing](https://grandmaster-nf.github.io/assets/images/wardenofnothing.jpg)
 {: refdef}
 ### Warden of Nothing
-All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar and Sniper Resist. Boss bake - attach Anarchy, Tether, double Chaos Reach.
+All champions. Vex and Cabal enemies. Void shields. Boss has to be nuked. Solar resist, Sniper Resis, Concussive Dampener. 
+Boss damage - attach Anarchy, Sunder + Tether, then Chaos reach and/or Thundercrash.
 
 **Class Composition:** Tether, Chaos Reach (x2), Thundercrash(x2). Chaos Reach is better than Thundercrash.
 
-**Team Weapon Loadout:** AB snipers, Unstoppable HC, Overload bows, Anarchy, Rocket Launchers, Overload sword.
+**Team Weapon Loadout:** AB snipers, Unstoppable HC/Pulse, Overload bows, Anarchy, Rocket Launchers, Overload sword.
+
+#### Safe loadout for Warden of Nothing:
+
+Hunter - Tether (bottom-tree) with Aeon Gloves, Assassins Cowl or Orpheus Rigs. Mobility and Discipline armor, 50+ resilience recommended. Bakris Revenant optional.
+
+Warlock - Chaos Reach with Geomag boots. 90+ Intellect armor, 50+ resilience recommended. 
+
+Titan - Thundercrash with Falling Star chest. High resilience and Intellect armor. 
+
+Warden is a repeated GM and the strategy again involves nuking the boss to as low health as possible, if not outright killing it. The combination of a tether hunter for damage and debuff plus two chaos reach warlocks or two thundercrash titans is ideal for boss burst. 
+
+Hunter should run an AB scout with Sundering Glare artifact mod. Combine with an overload bow or unstoppable pulse/hand cannon. Anarchy or RL’s for heavy.
+
+Warlocks and Titans should use AB snipers with one person running an unstoppable weapon and the other an overload bow. Pair with Anarchy.
+
+It’s a pretty chill GM overall and players only need to be cautious in the room with the mines. AB snipers will make dealing with the champs very easy. When you get to the open room with the overload minotaur, don’t shoot it till you have cleared the initial add wave of goblins and fanatics. Stun and kill the overload last, then move into the train section. Make your way down to the hydra mini boss and use anti-barrier snipers to shoot it through the shields; watch out for the splash damage. Stun and dispatch the unstoppable champ, then move up to deal with the barrier hobgoblin. Try not to die to the trains or random vex adds while moving forward. Blow up the explosive barrels and deal with the unstoppable incendiary champ. Take down the rest of the cabal adds, then snipe the barrier colossus from a safe distance.
+
+In the next room, stay at the base of the stairs and snipe the hydra but be aware of the two barrier hobgoblins. Solar and sniper resist will help in tanking their one shot line rifles. Good time to use tether on the vex near the hydra, then deal with the champ on the right side from cover (do not go past the train). Kill the champ on the left and move up, take down all the vex and explosive barrels till the big minotaur boss teleports out - burst it down with chaos reach/thundercrash. Head up through the lift and snipe the major cabal adds from range and let the two unstoppable champs come to you, ideally one after the other so you can kill them easily. Watch out for the sniper psions and dispatch them from range; alternatively the hunter can invis everyone and you can run through to the lift taking you up to the minefield.
+
+First thing to do in the mine room is going round the back (towards C mine) and activating or shooting all the fallen mines on the ground - you don’t want to deal with them later. Move towards mine B and take out psions and regular adds from range, then work on the champs. There should be an unstoppable cabal, overload minotaur and two vex barrier hobgoblins. For some reason, Bungie removed an additional barrier colossus from this room. Try to aggro the overload champ away from the unstoppable and kill it asap, then deal with the cabal champ. Kill one barrier champ next, and scrounge for ammo before taking out the second hobgoblin. That will start the mine phase.
+
+This is the toughest part of the GM but comfortable if you don’t panic. Spawn trap the vex hobgoblin champ with Anarchy near mine A and have one player kill the 4 goblins coming out from the other door. Aggro the unstoppable champ towards mine A, and once its dead, capture A. The mines have a very long timer and you can get off the cap if required. Clear the adds near mine B, then either send 2 players or all 3 to cap B. There is only one overload champ remaining on the ramp in the middle and you don’t even need to kill it. Just tag it once and head over to mine C, avoid the left corner where some cabal and vex are shooting each other. Either the invis hunter can cap C solo, or everyone can help - be careful of the giant minotaur and goblins spawning from the back. Once C has been capped, one player can quickly grab the scorch cannon and everyone should move towards mine B. Stay at range and kill the colossus miniboss to unlock the next area.
+
+Head down into the treasure room (watch for fall damage) and go down the lift. Bumping into each other in the lift can cause a player to die, so be careful. When you reach the bottom of the lift, stay there and stun the overload champ. Keep it stunned and let the cabal champs kill it, or snipe it down. Next, stun the unstoppable and let the hobgoblin kill it, or snipe it down. Jump down to the boss room and use the cover on the right to dispatch the barrier colossus (there used to be two colossi but Bungie removed one). Make sure everyone has supers and anarchy ammo before killing the last and final barrier hobgoblin.
+
+Prepare for boss nuke. Hunter should stay far away and sunder the boss asap when it spawns. Everyone should attach two anarchy on the boss and unleash supers. Chaos Reach and Thundercrash should wait on the left and right sides till the boss gets tethered. If done correctly, the boss will die right as your supers run out. If the boss has some health left and/or manages to teleport to the left, take cover and quickly tag it with more Anarchy shots. (Invis hunter can stay hidden incase players die to adds or solar flare). Your Treasure awaits!
+
 
 
 {:refdef: style="text-align: center;"}
 ![insightterminus](https://grandmaster-nf.github.io/assets/images/insightterminus.jpg)
 {: refdef}
 ### Insight Terminus
-Barrier and Unstoppable champs. Some Vex but mostly Cabal enemies. Lots of one-shot snipers. Boss room has limited cover, boss cannot be nuked. All types of shields? Arc/Void Resist, Concussive Dampener, sniper resist. Suppression builds ideal.
+Barrier and Unstoppable champs. Some Vex but mostly Cabal enemies. Lots of one-shot sniper psions. Boss room has limited cover, boss cannot be nuked. Void shields on Vex minotaurs and Incendiors. Arc/Void Resist, Concussive Dampener, Sniper resist. Stasis and/or Suppression builds ideal for boss room.
 
-**Class Composition:** Tether, Banner Shield, Chaos Reach. Well not recommended, movement is key.
+**Class Composition:** Tether, Banner Shield, Chaos Reach. Bubble/Well not recommended, movement is key.
 
-**Team Weapon Loadout:** AB snipers, Unstoppable HC/Pulse, Anarchy, Xenophage, Rocket Launchers
+**Team Weapon Loadout:** AB snipers, Unstoppable HC/Pulse, Anarchy, Xenophage, Rocket Launchers, Sword.
 
+#### Safe loadout for Insight Terminus:
+
+Hunter - Tether (bottom-tree) with Aeon Gloves, Assassins Cowl or Fr0st-EE5. Mobility and Discipline armor, 50+ resilience recommended. Bakris Revenant optional.
+
+Warlock - Chaos Reach with Geomag boots. 90+ Intellect armor, 50+ resilience. Shadebinder with Aeon gloves or Verity’s Brow optional, high discipline build for turrets. 
+
+Titan - Banner Shield with Ursa Furiosa gloves. 90+ Intellect, high Discipline and 60 resilience. Suppressor grenades and Towering Barricade.
+
+Terminus is also a repeated GM where the boss room can be a challenge. You can not burst down the boss, the adds spawn infinitely and plates have to be captured, requiring good add control loadouts. Invis, banner and stasis will be key to a smooth run. Hunters can potentially run a sword with passive guard to take care of melee adds like warhounds and gladiators. Cellular suppression warmind build will be useful but not necessary if you have a stasis subclass.
+
+Hunters should run an AB scout/sniper, Unstoppable HC/Pulse and have a couple of heavy options - Sword, RL, Anarchy, Xeno. Ticcu’s optional for add control.
+
+Warlocks should run AB sniper, Unstoppable HC/Pulse and Anarchy.
+
+Titans can run AB scout with a blinding GL and Anarchy, or the same loadout as the warlock.
+
+This GM is basically split into two parts - the orb room and the boss room. Invis hunter can be tactically used to skip a few sections. Sparrow through from spawn - the very first barrier hobgoblin can sometimes teleport away, so watch out. The first room has three barrier vex champs, a couple of void shielded minotaurs and a bunch of goblins. You can kill the first two champs with AB snipers, then invis and sneak to the third one and take it out, ignoring the rest of the adds. Or play it safe and clear everything. In the next room with the cabal be very careful about the shotgunners who tend to one shot; and sniper psions who have line of sight from the other side. Either keep at range and clear the adds (use banner shield), or go invis and run through to behind the barrier champ. Watch out for fanatics in the passage leading to the plate. Either way, kill the champ and proceed.
+
+Trigger the boss but don’t get too close, the stomp is an insta kill. Place anarchy traps on the portal and watch out for warbeasts and gladiators. The second spawn will summon two unstoppable champs - try to stun them both asap (explosive HC can double stun) and back away from the plate to avoid knockback. Once they are dead, go through to the orb room. (Killing the adds too fast while capping the plate can sometimes despawn both the unstoppable champs). While crouching through the vex arc fluid under the rock, keep left to avoid taking damage. You’ll come across a barrier colossus and some legionaries - good time to use a banner shield and deal with them. Kargen will be on the opposite end near the door, shooting him will summon the next wave of adds and a drop pod with an unstoppable champion. It’s safer to rotate towards the door (near the orb dunk spots) and shoot everything from range. A barrier champ will also spawn during this time and should be killed before killing the unstoppable champ to make the next part easier. 
+
+Once the unstoppable champ is dead, it will drop the first orb and more adds will spawn near the dunk point to the right - gladiators, legionaries and a barrier colossus. Move away from the dunk point and deal with them, then grab the orb. Dunking will summon more adds from the vex portals on the sides of the room and three more champions - two barriers and one unstoppable. You can make this part a little easier by placing anarchy traps outside the portals and spawn trapping some adds. There will be sniper psions as well so deal with them from range. Use the area near the dunk spot to clear adds and it’s better to kill the barrier champs before killing the unstoppable, to control the flow of adds.
+
+Picking up the next orb (dropped by the unstoppable champ) will summon a drop pod in the middle with a barrier champ, more adds from portals, and two more barrier champs + adds near the second dunk spot. This part is a little tricky as your movement gets restricted and it’s best to move back towards the area where you entered the big room and clear the adds and solo barrier champ first. Then you can use the middle area and snipe the two barrier champs guarding the dunk spots. The invis hunter can sneak and dunk the orb to make this part a little easier, so you can potentially skip some adds and run through to the boss arena (while invisible). Either way, collect ammo and skip or kill the Vex that spawn after the door opens, and head down to the boss, killing/skipping a few fanatics on the way. It’s worthwhile shooting the vex that the boss destroys so they can drop some ammo for your team.
+
+Start the boss fight by capturing the middle plate. It’s a good idea to use stasis and anarchy traps to keep the adds away from the plate. The banner titan can also move up and block them while two players caps the plate. As soon as the boss drops down, move back and split up - the void grenade attack is deadly and the boss has a one shot stomp if it gets close. Tag anarchy and snipe Kargen from range, and use chaos reach for damage. The adds will keep on spawning indefinitely throughout this encounter (from the three vex portals), be very careful about the warbeasts and gladiators who can get up close and have lunge attacks. 
+
+When the boss shields up, it’s time to capture the three plates. This can be done in multiple ways - either stay together and cap them one by one, or split up and cap them two/three at a time if you feel confident. This is a good time to clear adds, collect ammo and build supers. I’ll recommend capping one by one with stasis, banner shield, blinding grenades and anarchy traps. One player can also rotate to the opposite plate and aggro adds away from the plate being capped. Void shielded incendiary cabal will also spawn in the final phase, don’t let them get close as they can launch you into walls and pillars. When the plates are capped and the boss drops down for the finale, stay at range and use your heavy and supers to kill Kargen. Tether + chaos reach with anarchy attached can do lots of damage while the banner titan holds aggro. The boss tends to move around erratically when his health gets low so be aware of his movements and void grenade spam. 
+
+
+CONGRATUALTIONS IF YOU HAVE CLEARED ALL THE SIX GRANDMASTERS THIS SEASON, GET TO GILDING THAT CONQUEROR TITLE!!!
 
 [back](https://grandmaster-nf.github.io/)
