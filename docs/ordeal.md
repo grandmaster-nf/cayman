@@ -6,9 +6,9 @@ description: Season of the Chosen
 
 # GM Guide: The Ordeal Strikes
 
-These are the 6 strikes for the **Season of the Chosen**.
+These are the 6 ordeals for the **Season of the Chosen**.
 
-_(This Page will get updated with strategies and loadout suggestions when all the seasonal GM’s are out)_
+_(This Page has been updated with strategies and loadout suggestions for all the seasonal GM’s)_
 
 
 {:refdef: style="text-align: center;"}
@@ -92,7 +92,7 @@ Barrier and Unstoppable champs. Cabal enemies, a few Vex. Mostly Void and Solar 
 
 #### Safe loadout for Proving Grounds:
 
-Hunter - Tether (bottom-tree) with Aeon Gloves recommended. Optional Frost-EE5 or Assassin’s Cowl. Mobility and Discipline armor, 50+ resilience recommended.
+Hunter - Tether (bottom-tree) with Aeon Gloves recommended. Mobility and Discipline armor, 50+ resilience recommended. OR Revenant with Aeons.
 
 Warlock - Chaos Reach with Geomag boots. 90+ Intellect armor, 50+ resilience recommended.
 
@@ -253,6 +253,6 @@ Start the boss fight by capturing the middle plate. It’s a good idea to use st
 When the boss shields up, it’s time to capture the three plates. This can be done in multiple ways - either stay together and cap them one by one, or split up and cap them two/three at a time if you feel confident. This is a good time to clear adds, collect ammo and build supers. I’ll recommend capping one by one with stasis, banner shield, blinding grenades and anarchy traps. One player can also rotate to the opposite plate and aggro adds away from the plate being capped. Void shielded incendiary cabal will also spawn in the final phase, don’t let them get close as they can launch you into walls and pillars. When the plates are capped and the boss drops down for the finale, stay at range and use your heavy and supers to kill Kargen. Tether + chaos reach with anarchy attached can do lots of damage while the banner titan holds aggro. The boss tends to move around erratically when his health gets low so be aware of his movements and void grenade spam. 
 
 
-CONGRATUALTIONS IF YOU HAVE CLEARED ALL THE SIX GRANDMASTERS THIS SEASON, GET TO GILDING THAT CONQUEROR TITLE!!!
+#### CONGRATUALTIONS IF YOU HAVE CLEARED ALL THE SIX GRANDMASTERS THIS SEASON, GET TO GILDING THAT CONQUEROR TITLE!!!
 
 [back](https://grandmaster-nf.github.io/)
