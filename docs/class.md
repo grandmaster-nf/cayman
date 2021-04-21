@@ -15,7 +15,7 @@ description: Hunter, Titan, Warlock
 The  top tier choice of hunters for most GM's. Smoke bombs make you invisible so you can reposition, flank, get safe revives and skip some parts. You can not only invis yourself but your whole fireteam! Use Gambler's Dodge near enemies to replenish smoke bomb. Using a smoke bomb also gives grenade energy and the heart of the pack buff (bonus stats). Vortex grenades do a lot of damage, have a long duration and give back melee energy for smoke bomb.
 
 The super can be used for clearing/suppressing adds but also for BIG boss damage while applying a debuff (35%) so your guns hit harder! This subclass is excellent for aggressive players who like taking risks and can reposition effectively to suppress champions and elites, and get close up for finishers. 
-THIS IS THE WAY! (Can you can tell I’m a Hunter main, haha?)
+THIS IS THE WAY! (Can you can tell I’m a Hunter main? Haha)
 
 Invis hunter running a sword with the overload mod and passive guard mod from the artifact will be viable to tackle the annoying overload champions this season.
 
@@ -41,7 +41,7 @@ Unfortunately, the arc and solar hunter subclasses offer no team synergy or viab
 ### Sentinel - Code of the Commander
 It's the ideal and usually the only choice for titans doing GMs. The banner shield super blocks every type of damage for a long duration, while also making heaps of orbs and buffing weapon damage (35%) for your team. Paired with the Ursa Furiosa exotic gloves, you can regain upto 80% super energy while blocking with the banner shield! It’s also a mobile super that allows movement and lets you reposition.
 
-This subclass is not limited to the super! Suppressor grenades are very good for disorienting mobs and elites (they don’t work on champions), while the void detonators from both melee and grenades will heal you and your teammates. Use the super to block deadly incoming damage from champs, elites, minibosses and bosses, allowing for maximum super regain while your team takes out enemies from the cover of the shield. Standing close to the titan also makes the shield last longer.
+This subclass is not limited to the super! Suppressor grenades are very good for disorienting mobs and elites (they don’t work on champions), while the void detonators from both melee and grenades will heal you and your teammates. Use the super to block deadly incoming damage from champs, elites, minibosses and bosses, allowing for maximum super regain while your team takes out enemies from the cover of the shield. Standing close to the titan also makes the shield last longer!
 
 Melee and splash damage can still kill teammates through the shield, so keep that in mind. DO NOT block with the super while inside a well of radiance, it will negate any super energy gain from Ursa gloves.
 
@@ -57,11 +57,11 @@ Similar to the Commander subclass by giving you and your team the weapons of lig
 ### Striker - Code of the Missile
 Could be very good for some GMs this season when you need a burst damage super. Paired with the new exotic chest piece that buffs Thundercrash, the super can compete with Shadowshot and Chaos Reach; and should work for bosses that need to be burst down asap and don’t have immune phases, like the Warden servitor.
 
-Arc grenades with the Surge Detonator mod from seasonal artifact pairs well for stunning overload champs. Volatile Conduction mod that boosts super damage when low on health is also viable, bit it is situational and high risk, so only recommended for experienced players.
+Arc grenades with the Surge Detonator mod from seasonal artifact pairs well for stunning overload champs. Volatile Conduction mod that boosts super damage when low on health is also viable, but it is situational and high risk, so only recommended for experienced players.
 
 **Exotic armor** - Cuirass of the Falling Star (only available from Legendary lost sectors). Spec for intellect and discipline.
 
-Solar titans have little place in GMs, where certain add-clear sunspot builds can work but it’s not worth running when there is a really good option like Code of the Commander. Behemoth titan offers no value as a titan subclass for endgame pve.
+Solar titans have little place in GMs. Certain add-clear sunspot builds can work but they're not worth running when there is a really good option like Code of the Commander. Behemoth titan offers no value as a titan subclass for endgame pve.
 
 {:refdef: style="text-align: center;"}
 ## WARLOCK:
@@ -77,7 +77,7 @@ The grenades can be charged to become healing orbs and rifts regen very quickly 
 
 
 ### Stormcaller - Attunement of Control
-When you need to kill bosses fast. The super is fantastic for long range sustain damage to bosses when combined with the Geomag exotic boots. You can cancel the super early to save energy, and sprint at 80% super to quickly fill the bar. This also lets you be aggressive for bursting down champions and bosses, either leaving them with low health for a finisher or getting a kill to create orbs for the team.
+When you need to kill bosses fast! The super is fantastic for long range burst damage to bosses when combined with the Geomag exotic boots. You can cancel the super early to save energy, and sprint at 80% super to quickly fill the bar. This also lets you be aggressive for bursting down champions and bosses, either leaving them with low health for a finisher or getting a kill to create orbs for the team.
 
 Surge Detonator artifact mod will allow overload champs to be stunned with arc grenades - pulse and storm nades are ideal. Volatile Conduction mod that boosts super damage when low on health could also work, although situational and a high risk maneuver.
 
@@ -91,6 +91,6 @@ Good add clear super that also lets you freeze barrier champs and negate their r
 
 
 ### Voidwalkers - Attunement of Chaos
-Decent for GMs with a high discipline Contraverse Holds build, but this season there are no void artifact mods to supplement this subclass. Would be ideal with oppressive darkness, when the mod comes back. Well of radiance and Chaos reach builds are much better suited for GM warlock players.
+Decent for GMs with a high discipline Contraverse Hold build, but this season there are no void artifact mods to supplement this subclass. Would be ideal with oppressive darkness, when the mod comes back. Well of radiance and Chaos reach builds are much better suited for GM warlock players.
 
 [back](https://grandmaster-nf.github.io/)
