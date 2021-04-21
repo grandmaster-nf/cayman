@@ -24,6 +24,6 @@ The best way to practice for GMs is by running the Master versions underleveled,
 
 Also, get used to running an unconventional and/or non-meta loadout for the GMs. Double primaries and exotic heavy is a very common loadout. **Learn how the seasonal champion mods and artifact mods work, and how best to use them in your builds.** For instance, if a teammate is running Aeon gloves or special finisher, let them get the finisher kills. You may be running a defensive super but sitting on it helps no one, use it as often as you can.
 
-You also cannot underestimate any red-bar enemiesin the GM. They are extremely dangerous and can cause a team wipe when you least expect it. It is usually good practice to clear out all the minor adds before dealing with a champion, but that differs for each ordeal and encounter.
+You also cannot underestimate any red-bar enemies in the GM. They are extremely dangerous and can cause a team wipe when you least expect it. It is usually good practice to clear out all the minor adds before dealing with a champion, but that differs for each ordeal and encounter.
 
 There are plenty of tips and tricks for GMs and champions that have been covered in a myriad of videos and posts, so look them up if you want; or just ask in the discord server. With Adept guns added to GMs, more and more players will be looking to take up the challenge of becoming Conquerors - **hoping to see a lot of you out there this season, and in the future!**
