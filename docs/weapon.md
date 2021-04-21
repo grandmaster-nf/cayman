@@ -37,13 +37,13 @@ Bow perks: **shorter Draw time**, **Archer’s Tempo/Rapid Hit**, **Explosive He
 - **Riskrunner** - very good for add clear against hive and fallen.
 
 ## Special
-With the introduction of champion mods to special weapons in Beyond Light, it’s no longer required to run a double primary loadouts for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout.
+With the introduction of champion mods to special weapons in Beyond Light, it’s no longer required to run a double primary loadout for GMs. Your choice of special weapon will depend on the strike, champ types and team loadout.
 
 Sniper rifles having anti-barrier and getting bonus damage from the mod make them the ideal special weapons to use for GMs that have barrier champs.
 
-Vorpal is the best perk to have on snipers. A high-impact Anti-barrier sniper with vorpal will break a champion’s barrier with one precision shot. Reload perks like Triple tap, Clown cartridge and Fourth times the charm are also very useful.
+Vorpal is the best perk to have on snipers. A high-impact Anti-barrier sniper with vorpal will break a champion’s barrier with one precision shot. Reload perks like Reconstruction, Triple tap, Clown cartridge and Fourth times the charm are very useful.
 
-A breach Grenade Launcher with blinding grenades is also very handy, but only one player should run it. Blinding grenades for GLs will let you stun multiple enemies. Also works on majors and elites, but not on champs or bosses. Auto-loading holster recommended.
+A breach Grenade Launcher with blinding grenades is also very handy, but only one player should run it. Blinding grenade launchers will let you stun multiple enemies. Also works on majors and elites, but not on champs or bosses. Auto-loading holster recommended.
 
 Exotics like Divinity, Eriana’s Vow and Izanagi are ideal for GMs and will pair nicely with high-burst heavy weapons like Rocket launchers.
 
@@ -59,7 +59,7 @@ Players should use special ammo finisher mod on class items to make ammo on dema
 ## Heavy
 A slot usually reserved for exotics that can deal high burst or sustain damage, depending on the ordeal. The buff to Rocket launchers however makes them viable and accessible for GMs, freeing up the exotic slot for special or primary weapons.
 
-- **Anarchy** - the most common GM heavy weapon, and rightfully so. Good sustain damage, can spawn trap adds, and has very good ammo economy. Attach 2 grenades to a boss, take cover and watch its health bar tick down. For champions you want to attach only one nade, and the other near the floor. Barrier champs who summon the shield will despawn the anarchy grande attached to them, so it’s optimal to stick one grenade on the body and second on the floor near them, which will keep on damaging them after the shield break. Using anarchy to kill adds and swapping to a warmind weapon will also let you create warmind cells!
+- **Anarchy** - the most common GM heavy weapon, and rightfully so. Good sustain damage, can spawn trap adds, and has very good ammo economy. Attach 2 grenades to a boss, take cover and watch its health bar tick down. For champions you want to attach only one nade, and the other near the floor. Barrier champs who summon the shield will despawn the anarchy grenade attached to them, so it’s optimal to stick one grenade on the body and second on the floor near them, which will keep on damaging them after the shield break. Using anarchy to kill adds and swapping to a warmind weapon will also let you create warmind cells!
 - **Xenophage** - top tier heavy weapon for both fast add clear and champion burst damage. Can create warmind cells with Wrath of Rasputin mod. Ideal with a double primary loadout, you’ll get plenty of heavy ammo with machine gun scavenger and finder mods. Dual purpose for long range and close range encounters. Explosive rounds deliver the full damage even with body shots, so crits are not required, and the AoE can damage enemies behind cover.
 - **Lament** - High burst close range damage dealer for aggressive players, and can break barrier champion shields. Combine with passive guard, and lucent blade for bonus damage. Lament is an Anti-barrier weapon and will not work with overload sword artifact mod.
 - **Falling Guillotine** - Close range damage dealer for aggressive players. Combine with passive guard, lucent blade, and disrupting blade for overload champs.
@@ -76,7 +76,7 @@ A slot usually reserved for exotics that can deal high burst or sustain damage, 
 
 ## Anti-Barrier Scout Rifles
 
-- Kinetic Scouts - Curated Transfiguration (Last Wish raid), Night Watch (World drop)
+- Kinetic Scouts - Curated Transfiguration (Last Wish raid), Night Watch (World drop).
 Explosive payload is recommended.
 - Arc Scout (World drop, Engrams) - only scout that can roll Disruption break and AP rounds
 ![eternalblazon](https://grandmaster-nf.github.io/assets/images/eternalblazon.png)
